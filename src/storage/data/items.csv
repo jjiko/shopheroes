@@ -1,0 +1,702 @@
+Shortsword,2,26,Swords,Weapons,,6,28,3,0,0,0,0,0,0,0,0,0
+Longsword,3,46,Swords,Weapons,,14,60,5,0,0,0,0,0,0,0,0,0
+Broadsword,5,90,Swords,Weapons,,52,250,11,0,0,0,0,0,0,0,0,0
+Midnight Sword,6,175,Swords,Weapons,Pack of all Trades,389,"1,250",15,0,0,0,0,0,0,0,0,0
+Rapier,7,140,Swords,Weapons,,115,555,18,0,0,0,0,0,0,0,0,0
+Claymore,8,170,Swords,Weapons,,190,920,21,0,0,0,0,0,0,0,0,0
+Fire Blade,10,290,Swords,Weapons,Leather Chest,476,"1,850",30,0,0,0,0,0,0,0,0,0
+Zweihander,12,300,Swords,Weapons,,509,"2,250",40,0,0,0,8,0,0,0,0,0
+Bastard Sword,14,360,Swords,Weapons,,837,"3,700",50,0,0,0,12,0,0,0,0,0
+Sabre,16,430,Swords,Weapons,,"1,583","7,000",60,0,0,0,20,0,0,0,0,0
+Wakizashi,19,550,Swords,Weapons,,"2,485","11,000",75,0,0,0,32,0,0,0,0,0
+Vorpal Sword,20,875,Swords,Weapons,Iron Chest,"16,267","48,000",80,0,0,0,35,0,0,0,5,0
+Scimitar,23,700,Swords,Weapons,,"5,071","19,000",95,0,0,0,46,0,0,0,0,0
+Coldsteel,25,"1,000",Swords,Weapons,Golden Chest,"23,861","71,500",105,0,0,0,55,0,0,0,0,0
+Masamune,27,875,Swords,Weapons,,"17,353","65,000",120,0,0,0,65,0,0,0,0,0
+Sawblade,30,"1,025",Swords,Weapons,,"24,556","92,000",145,0,0,0,80,0,0,0,0,0
+Heaven's Will,31,"1,050",Swords,Weapons,,"45,997","140,000",150,0,0,0,85,0,0,0,22,17
+Abyssal Brand,32,"1,650",Swords,Weapons,Golden Chest,"239,012","485,000",165,0,0,0,90,0,0,0,24,0
+Bacon Blade,34,"1,800",Swords,Weapons,Epic Pack,"278,412","565,000",175,0,0,0,100,0,0,0,28,21
+Slashing Tiger,35,"1,250",Swords,Weapons,,"68,985","210,000",185,0,0,0,105,0,0,0,30,0
+Excalibur,37,"1,350",Swords,Weapons,,"134,673","410,000",210,0,0,0,115,0,0,0,34,0
+Stormbringer,38,"1,750",Swords,Weapons,Magic Chest,"821,213","2,000,000",220,0,0,0,120,0,0,0,36,27
+Twilight Scimitar,39,"1,450",Swords,Weapons,,"223,352","680,000",235,0,0,0,125,0,0,0,38,29
+Balmung,40,"2,250",Swords,Weapons,Advanced Shopfare,"2,168,003","4,400,000",250,0,0,0,130,0,0,0,40,30
+Dragonslayer,41,"2,325",Swords,Weapons,Magic Chest,"2,287,189","3,950,000",275,0,0,0,135,0,0,0,42,32
+Unholy Fangs,43,"1,650",Swords,Weapons,,"376,971","1,100,000",325,0,0,0,145,0,0,0,48,36
+Frostfire Blade,46,"2,250",Swords,Weapons,Dwarvish Chest,"1,972,438","5,450,000",400,0,0,0,160,0,0,0,60,45
+Durandal,50,"3,025",Swords,Weapons,Primal Chest,"6,593,328","18,700,000",500,0,0,0,200,0,0,0,100,75
+Knife,1,10,Daggers,Weapons,,4,10,2,0,0,0,0,0,0,0,0,0
+Pocket Knife,2,26,Daggers,Weapons,,5,24,3,0,0,0,0,0,0,0,0,0
+Kris,3,68,Daggers,Weapons,Ninja Pack,15,260,5,0,0,0,0,0,0,0,0,0
+Dirk,3,46,Daggers,Weapons,,14,60,5,0,0,0,0,0,0,0,0,0
+Parrying Dagger,5,90,Daggers,Weapons,,41,195,10,0,0,0,0,0,0,0,0,0
+Stiletto,7,140,Daggers,Weapons,,98,475,16,0,0,0,0,0,0,0,0,0
+White Dagger,9,250,Daggers,Weapons,Wooden Chest,322,"1,250",23,0,0,0,0,0,0,0,0,0
+Broad Blade,10,230,Daggers,Weapons,,178,865,27,0,0,0,0,0,0,0,0,0
+Gutting Knife,12,300,Daggers,Weapons,,396,"1,750",36,0,0,0,7,0,0,0,0,0
+Hunting Knife,13,330,Daggers,Weapons,,474,"2,100",41,0,0,0,9,0,0,0,0,0
+Crimson Heart,15,500,Daggers,Weapons,Leather Chest,"3,108","11,000",50,0,0,0,14,0,0,8,2,0
+Mail Breaker,16,430,Daggers,Weapons,,"1,097","4,850",54,0,0,0,18,0,0,10,0,0
+Phantom Katar,18,775,Daggers,Weapons,Iron Chest,"8,812","26,000",63,0,0,0,25,0,0,14,0,0
+Switch Blade,20,575,Daggers,Weapons,,"2,598","11,500",72,0,0,0,32,0,0,18,0,0
+Life Stealer,22,675,Daggers,Weapons,,"5,072","19,000",81,0,0,0,38,0,0,21,5,0
+Night Shiv,25,800,Daggers,Weapons,,"8,810","33,000",95,0,0,0,50,0,0,28,0,0
+Shadowripper,27,875,Daggers,Weapons,,"14,550","54,500",108,0,0,0,59,0,0,33,0,0
+Wing Blade,30,"1,025",Daggers,Weapons,,"29,361","110,000",131,0,0,0,72,0,0,40,15,0
+Dark Hand,35,"1,250",Daggers,Weapons,,"57,487","175,000",167,0,0,0,95,0,0,53,23,0
+Betrayer,36,"1,950",Daggers,Weapons,Magic Chest,"416,388","845,000",180,0,0,0,99,0,0,55,0,0
+Royal Dirk,37,"1,350",Daggers,Weapons,,"137,958","420,000",189,0,0,0,104,0,0,58,26,0
+Seven Stars,38,"1,750",Daggers,Weapons,Magic Chest,"392,129","955,000",198,0,0,0,108,0,0,60,27,36
+Dragon Fang,39,"2,175",Daggers,Weapons,Magic Chest,"689,764","1,400,000",212,0,0,0,113,0,0,63,29,38
+Traitorous Blade,41,"1,550",Daggers,Weapons,,"304,959","790,000",248,0,0,0,122,0,0,68,32,0
+Tecpatl,44,"2,550",Daggers,Weapons,Cinco De Mayo Pack,,"7,100,000",315,0,0,0,135,0,0,75,38,51
+Obsidian Dagger,46,"2,250",Daggers,Weapons,Dwarvish Chest,"2,442,928","6,750,000",360,0,0,0,144,0,0,80,45,60
+Aphotic Shiv,49,"2,950",Daggers,Weapons,City Raid,"5,395,934","14,550,000",428,0,0,0,171,0,0,95,60,80
+Primal Dagger,50,"3,025",Daggers,Weapons,Heroic Pack,,"18,000,000",450,0,0,0,180,0,0,100,75,100
+Hand Axe,2,26,Axes,Weapons,,9,42,2,2,0,0,0,0,0,0,0,0
+Iron Axe,3,46,Axes,Weapons,,26,115,4,4,0,0,0,0,0,0,0,0
+Broad Axe,4,68,Axes,Weapons,,61,290,6,6,0,0,0,0,0,0,0,0
+Halberd,5,90,Axes,Weapons,,84,405,8,8,0,0,0,0,0,0,0,0
+Druidic Axe,6,175,Axes,Weapons,Advanced Shopfare,389,"1,250",11,11,0,0,0,0,0,0,0,0
+Hunting Axe,6,115,Axes,Weapons,,172,830,11,11,0,0,0,0,0,0,0,0
+Pole Axe,9,200,Axes,Weapons,,340,"1,650",19,19,0,0,3,0,0,0,0,0
+Tiamat,10,290,Axes,Weapons,Leather Chest,"1,223","4,750",23,23,0,0,0,0,0,0,0,0
+Labrys,12,300,Axes,Weapons,,894,"3,950",30,30,0,0,6,6,0,0,0,0
+Steel Axe,14,360,Axes,Weapons,,"1,573","6,950",38,38,0,0,9,9,0,0,0,0
+Hawk,16,430,Axes,Weapons,,"2,600","11,500",45,45,0,0,15,15,0,0,0,0
+Lava Axe,20,575,Axes,Weapons,,"4,745","21,000",60,60,0,0,26,26,0,0,0,0
+Reaper,22,"1,000",Axes,Weapons,Halloween Pack,"18,219","45,500",68,68,0,0,32,32,0,0,0,0
+Berserker's Axe,23,"1,075",Axes,Weapons,Iron Chest,"66,061","165,000",71,71,0,0,35,35,0,0,0,0
+Bone Reaver,24,750,Axes,Weapons,,"15,086","56,500",75,75,0,0,38,38,0,0,0,0
+Sharp Tusk,25,"1,000",Axes,Weapons,Golden Chest,"61,737","185,000",79,79,0,0,41,41,0,0,0,0
+Crystal Asunder,28,925,Axes,Weapons,,"26,562","99,500",98,98,0,0,53,53,0,0,0,0
+Shining Axe,31,"1,050",Axes,Weapons,,"55,854","170,000",113,113,0,0,64,64,0,0,0,0
+Widow Maker,32,"1,650",Axes,Weapons,Golden Chest,"330,182","670,000",124,124,0,0,68,68,0,0,0,0
+Nocturne Axe,33,"1,150",Axes,Weapons,,"67,343","205,000",128,128,0,0,71,71,0,0,20,0
+Storm Splitter,36,"1,300",Axes,Weapons,,"137,975","420,000",150,150,0,0,83,83,0,0,24,32
+Infernal Rage,38,"1,750",Axes,Weapons,Magic Chest,"636,440","1,550,000",165,165,0,0,90,90,0,0,27,36
+Eagle,39,"1,450",Axes,Weapons,,"244,702","745,000",176,176,0,0,94,94,0,0,29,38
+Ragnarok's Edge,40,"2,250",Axes,Weapons,Magic Chest,"2,044,821","4,150,000",188,188,0,0,98,98,0,0,30,0
+Retribution,42,"1,600",Axes,Weapons,,"599,738","1,650,000",225,225,0,0,105,105,0,0,34,45
+Frenzied Axe,48,"2,400",Axes,Weapons,Primal Chest,"3,953,445","12,150,000",338,338,0,0,135,135,0,0,53,70
+Umbral Axe,50,"3,025",Axes,Weapons,City Raid,"7,122,204","20,200,000",375,375,0,0,150,150,0,0,75,100
+Wooden Spear,1,10,Spears,Weapons,,4,10,0,2,0,0,0,0,0,0,0,0
+Iron Spear,3,46,Spears,Weapons,,14,60,0,5,0,0,0,0,0,0,0,0
+Half Pike,4,68,Spears,Weapons,,30,140,0,8,0,0,0,0,0,0,0,0
+Trident,5,90,Spears,Weapons,,60,290,0,11,0,0,0,0,0,0,0,0
+Pike,8,170,Spears,Weapons,,127,615,0,21,0,0,0,0,0,0,0,0
+Gaia's Javelin,9,300,Spears,Weapons,Thanksgiving Pack,526,"1,700",0,25,0,0,0,0,0,0,0,0
+Spade,10,230,Spears,Weapons,,360,"1,750",15,30,0,0,0,0,0,0,0,0
+Seeking Tip,12,370,Spears,Weapons,Leather Chest,"1,485","5,250",20,40,0,0,4,8,0,0,0,0
+Lance,13,330,Spears,Weapons,,712,"3,150",0,45,0,0,5,10,0,0,0,0
+Champion's Javelin,14,550,Spears,Weapons,Summer Sports Pack,,"17,000",0,50,0,0,6,12,0,0,0,0
+Knight's Lance,15,400,Spears,Weapons,,"1,526","6,750",28,55,0,0,8,16,0,0,0,0
+Valkyrie,18,500,Spears,Weapons,,"2,259","10,000",0,70,0,0,14,28,0,0,0,0
+Poison Tip,19,825,Spears,Weapons,Iron Chest,"21,012","62,000",0,75,0,0,16,32,0,0,0,0
+Bone Spear,21,625,Spears,Weapons,,"6,408","24,000",43,85,0,0,19,38,0,0,0,0
+Winged Spear,25,800,Spears,Weapons,,"8,810","33,000",53,105,0,0,28,55,0,0,0,0
+Silver Fork,26,"1,050",Spears,Weapons,Golden Chest,"23,528","70,500",55,110,0,0,30,60,0,0,0,0
+Lion's Tail,29,975,Spears,Weapons,,"13,614","51,000",70,140,0,0,38,75,0,0,0,0
+Moon Voulge,30,"1,525",Spears,Weapons,Golden Chest,"142,134","355,000",0,145,0,0,40,80,0,0,15,0
+Impaler,32,"1,100",Spears,Weapons,,"32,690","99,500",0,165,0,0,45,90,0,0,18,0
+Obsidian Spear,32,"1,650",Spears,Weapons,Advanced Shopfare,"170,019","345,000",83,165,0,0,45,90,0,0,18,0
+Twisted Pike,34,"1,200",Spears,Weapons,,"54,204","165,000",0,175,0,0,50,100,0,0,0,28
+Titanic Lance,36,"1,300",Spears,Weapons,,"96,911","295,000",100,200,0,0,55,110,0,0,24,0
+Night Spike,38,"1,750",Spears,Weapons,Magic Chest,"533,789","1,300,000",0,220,0,0,60,120,0,0,27,0
+Divine Ray,39,"2,175",Spears,Weapons,Magic Chest,"1,379,528","2,800,000",118,235,0,0,63,125,0,0,29,0
+Mystic Spear,40,"1,500",Spears,Weapons,,"243,079","740,000",125,250,0,0,65,130,0,0,30,40
+Twilight Spear,43,"1,650",Spears,Weapons,,"411,241","1,200,000",163,325,0,0,73,145,0,0,36,48
+Obsidian Voulge,47,"2,325",Spears,Weapons,Dwarvish Chest,"2,177,896","6,350,000",0,425,0,0,85,170,0,0,49,65
+Primordial Trident,50,"3,025",Spears,Weapons,Primal Chest,"5,923,417","16,800,000",250,500,0,0,100,200,0,0,75,100
+Club,1,10,Maces,Weapons,,4,10,0,2,0,0,0,0,0,0,0,0
+Spiked Club,2,26,Maces,Weapons,,5,24,0,3,0,0,0,0,0,0,0,0
+Shieldbreaker,3,68,Maces,Weapons,Warrior Pack,15,260,0,5,0,0,0,0,0,0,0,0
+Maul,4,68,Maces,Weapons,,20,95,0,7,0,0,0,0,0,0,0,0
+Sledgehammer,5,90,Maces,Weapons,,41,195,0,10,0,0,0,0,0,0,0,0
+Mace,7,140,Maces,Weapons,,81,390,0,16,0,0,0,0,0,0,0,0
+Morning Star,8,215,Maces,Weapons,Wooden Chest,298,"1,150",0,19,0,0,0,0,0,0,0,0
+Heavy Mace,9,200,Maces,Weapons,,168,815,0,23,0,0,0,0,0,0,0,0
+Battle Mace,11,260,Maces,Weapons,,396,"1,750",0,32,0,0,0,5,0,0,0,0
+Pumpkin Smasher,13,,Maces,Weapons,Hollow Pack,,"7,100",0,41,0,0,0,9,0,0,0,0
+Steeled Club,14,360,Maces,Weapons,,792,"3,500",0,45,0,0,3,11,0,0,0,0
+Tree Trunk,15,600,Maces,Weapons,Leather Chest,"4,238","12,500",0,50,0,0,0,14,0,0,0,0
+War Gavel,17,470,Maces,Weapons,,"1,288","5,700",0,59,0,0,0,22,0,0,0,0
+Journey Mace,21,625,Maces,Weapons,,"2,550","9,550",0,77,0,0,0,34,0,0,0,0
+Hammer Fist,22,825,Maces,Weapons,Iron Chest,"18,018","54,000",0,81,0,0,11,38,0,0,0,0
+Demolisher,25,800,Maces,Weapons,,"6,541","24,500",0,95,0,0,0,50,0,0,0,0
+Giant's Hammer,25,"1,190",Maces,Weapons,Advanced Shopfare,"153,509","115,000",0,95,0,0,0,50,0,0,0,0
+Fury Club,28,925,Maces,Weapons,,"11,613","43,500",0,117,0,0,0,63,0,0,0,0
+Earthquake,31,"1,050",Maces,Weapons,,"20,534","62,500",0,135,0,0,0,77,0,0,17,0
+Apocalyptus,32,"1,650",Maces,Weapons,Golden Chest,"182,339","370,000",0,149,0,0,0,81,0,23,0,24
+Pulverizer,35,"1,250",Maces,Weapons,,"52,560","160,000",0,167,0,0,26,95,0,0,0,30
+Tide Maker,37,"1,350",Maces,Weapons,,"73,906","225,000",0,189,0,0,0,104,0,0,26,34
+Evening Star,38,"1,750",Maces,Weapons,Magic Chest,"385,970","940,000",0,198,0,0,0,108,0,30,27,36
+Destroyer,39,"1,450",Maces,Weapons,,"177,368","540,000",0,212,0,0,0,113,0,0,29,38
+Hundred Ton,40,"2,250",Maces,Weapons,Magic Chest,"1,305,729","2,650,000",0,225,0,0,0,117,0,33,30,40
+Storm Basher,43,"1,650",Maces,Weapons,,"514,051","1,500,000",0,293,0,0,0,131,0,0,36,48
+Crusher,48,"2,400",Maces,Weapons,City Raid,"2,066,204","6,350,000",0,405,0,0,0,162,0,45,53,70
+Tenderizer,50,"3,025",Maces,Weapons,Primal Chest,"4,583,597","13,000,000",0,450,0,0,50,180,0,50,75,100
+Walking Stick,1,10,Staves,Weapons,,5,12,0,2,0,0,0,0,0,0,0,0
+Crow Stick,3,46,Staves,Weapons,,19,85,0,5,0,0,0,0,0,0,0,0
+Druidic Rod,5,90,Staves,Weapons,,70,335,0,11,0,0,0,0,0,0,0,0
+Battle Staff,6,115,Staves,Weapons,,134,645,0,15,0,0,0,0,0,0,0,0
+Muted Caster,8,170,Staves,Weapons,,200,965,0,21,0,0,0,0,0,0,0,0
+Bishop Staff,9,250,Staves,Weapons,Wooden Chest,399,"1,550",0,25,0,0,0,0,0,0,0,0
+Healing Rod,10,230,Staves,Weapons,,443,"2,150",0,30,0,0,0,5,0,0,0,0
+Forest Wand,12,300,Staves,Weapons,,894,"3,950",0,40,0,0,0,8,0,0,0,0
+Fire Rod,13,330,Staves,Weapons,,"1,751","7,750",0,45,0,0,0,10,0,0,0,0
+Blood Staff,15,400,Staves,Weapons,,"2,486","11,000",0,55,0,0,0,16,0,0,0,0
+Luna Rod,17,700,Staves,Weapons,Iron Chest,"12,371","36,500",0,65,0,0,0,24,0,0,3,3
+Whispering Wand,19,550,Staves,Weapons,,"6,100","27,000",0,75,0,0,0,32,0,0,0,0
+Rebirth Rod,23,700,Staves,Weapons,,"12,678","47,500",0,95,0,0,0,46,0,0,7,0
+Ice Staff,26,825,Staves,Weapons,,"24,963","93,500",0,110,0,0,0,60,0,0,12,10
+Death Stick,27,875,Staves,Weapons,,"50,725","190,000",0,120,0,0,0,65,0,49,14,0
+Sacred Scepter,28,"1,150",Staves,Weapons,Golden Chest,"135,148","405,000",0,130,0,0,18,70,0,53,16,14
+Soul Stealer,30,"1,025",Staves,Weapons,,"86,748","325,000",0,145,0,0,0,80,0,60,20,0
+Champion's Torch,32,"1,650",Staves,Weapons,Summer Sports Pack,"278,437","565,000",0,165,0,0,23,90,0,68,24,20
+Staff Of Ages,33,"1,150",Staves,Weapons,,"174,105","530,000",0,170,0,0,0,95,0,71,26,22
+Star Wand,35,"1,875",Staves,Weapons,Magic Chest,"386,809","785,000",0,185,0,0,0,105,0,79,30,26
+Eagle Rod,36,"1,300",Staves,Weapons,,"344,937","1,050,000",0,200,0,0,0,110,0,83,32,27
+Emperor Wand,38,"1,750",Staves,Weapons,Magic Chest,"574,849","1,400,000",0,220,0,0,30,120,0,90,36,31
+Cultist Staff,39,"1,450",Staves,Weapons,,"492,689","1,500,000",0,235,0,0,0,125,0,94,38,32
+Valkyrie's Wisdom,40,"2,250",Staves,Weapons,Wizard Pack,"1,059,365","2,150,000",0,250,0,0,33,130,0,98,40,34
+Sun King,41,"2,325",Staves,Weapons,Magic Chest,"3,387,356","5,850,000",0,275,0,0,0,135,0,101,42,36
+Keeper Of Souls,45,"2,200",Staves,Weapons,Dwarvish Chest,"4,932,348","12,900,000",0,375,0,0,39,155,0,116,55,47
+Affection,45,"2,625",Staves,Weapons,Valentine's Pack,"5,001,171","10,900,000",0,375,0,0,39,155,0,116,55,47
+Shattered Wand,50,"3,025",Staves,Weapons,Primal Chest,"7,492,418","21,250,000",0,500,0,0,0,200,0,150,100,85
+Short Bow,2,26,Bows,Weapons,,7,32,0,3,0,0,0,0,0,0,0,0
+Long Bow,3,46,Bows,Weapons,,17,75,0,5,0,0,0,0,0,0,0,0
+Faery's String,5,90,Bows,Weapons,,72,345,0,11,0,0,0,0,0,0,0,0
+Double String,7,140,Bows,Weapons,,131,635,0,18,0,0,0,0,0,0,0,0
+Falcon Eye,8,215,Bows,Weapons,Wooden Chest,725,"2,800",0,21,0,0,0,0,0,0,0,0
+Composite Bow,9,200,Bows,Weapons,,309,"1,500",0,25,0,0,0,0,0,0,0,0
+Crossbow,11,260,Bows,Weapons,,577,"2,550",0,35,0,0,0,6,0,3,0,0
+Hallowed Striker,13,,Bows,Weapons,Spooky Shop Pack,,"10,000",0,45,0,0,0,10,0,0,0,0
+Recurved Bow,14,360,Bows,Weapons,,"1,052","4,650",0,50,0,0,0,12,0,0,0,0
+Heavy Crossbow,17,470,Bows,Weapons,,"2,248","9,950",0,65,0,0,0,24,0,12,0,0
+Self-Loader,18,775,Bows,Weapons,Iron Chest,"15,421","45,500",0,70,0,0,0,28,0,14,0,0
+Forester,20,575,Bows,Weapons,,"3,163","14,000",0,80,0,0,0,35,0,0,0,0
+Eagle Eye,21,775,Bows,Weapons,Iron Chest,"16,187","48,500",0,85,0,0,0,38,0,0,0,0
+Transfixer,23,700,Bows,Weapons,,"6,806","25,500",0,95,0,0,0,46,0,0,0,0
+Silent Arbalest,25,800,Bows,Weapons,,"19,756","74,000",0,105,0,0,0,55,0,28,0,0
+Wind Striker,27,875,Bows,Weapons,,"30,702","115,000",0,120,0,0,0,65,0,0,0,0
+Bow Of Light,29,975,Bows,Weapons,,"42,710","160,000",0,140,0,0,0,75,0,0,18,0
+Valkyrie's Touch,30,"1,525",Bows,Weapons,Ninja Pack,"184,174","460,000",0,145,0,0,0,80,0,0,20,15
+Spider,31,"1,050",Bows,Weapons,,"70,638","215,000",0,150,0,0,0,85,0,0,22,17
+Chimera Wings,34,"1,200",Bows,Weapons,,"119,906","365,000",0,175,0,0,0,100,0,0,28,21
+Evelyn,35,"1,875",Bows,Weapons,Magic Chest,"640,575","1,300,000",0,185,0,0,0,105,0,0,0,23
+Dragon Eye,37,"1,675",Bows,Weapons,Magic Chest,"1,683,412","4,100,000",0,210,0,0,0,115,0,0,34,0
+Lovestruck,38,"2,100",Bows,Weapons,Valentine's Pack,"2,340,457","4,750,000",0,220,0,0,0,120,0,0,36,27
+Griffin Wings,38,"1,400",Bows,Weapons,,"279,212","850,000",0,220,0,0,0,120,0,0,36,27
+Adamantium Crossbow,39,"2,175",Bows,Weapons,Magic Chest,"3,054,669","6,200,000",0,235,0,0,0,125,0,63,38,29
+Twilight Shot,40,"1,500",Bows,Weapons,,"706,244","2,150,000",0,250,0,0,0,130,0,0,40,30
+Elven Bow,43,"2,050",Bows,Weapons,Dwarvish Chest,"3,662,613","8,550,000",0,325,0,0,0,145,0,0,48,36
+Wind Piercer,48,"2,875",Bows,Weapons,City Raid,"7,496,904","19,200,000",0,450,0,0,0,180,0,0,70,53
+Lycan Slayer,50,"3,025",Bows,Weapons,City Raid,,"22,150,000",0,500,0,0,0,200,0,0,100,75
+Pistol,5,90,Guns,Weapons,,88,420,7,7,0,0,0,0,0,0,0,0
+Musket,6,115,Guns,Weapons,,207,"1,000",9,9,0,0,0,0,0,0,0,0
+Arquebuse,7,140,Guns,Weapons,,341,"1,650",11,11,0,0,0,0,0,0,0,0
+Pocket Pistol,8,170,Guns,Weapons,,455,"2,200",13,13,0,0,0,0,0,0,0,0
+Long Musket,9,200,Guns,Weapons,,845,"4,100",15,15,0,0,0,0,0,0,0,0
+Falconer,11,260,Guns,Weapons,,"1,505","6,650",21,21,0,0,4,0,0,4,0,0
+Rifle,13,410,Guns,Weapons,Leather Chest,"2,203","7,800",27,27,0,0,6,6,0,0,0,0
+Axe Pistol,14,360,Guns,Weapons,,"2,003","8,850",30,30,0,0,7,7,0,7,0,0
+Flintlock,17,470,Guns,Weapons,,"3,954","17,500",39,39,0,0,14,14,0,14,0,0
+Black Stock,18,775,Guns,Weapons,Iron Chest,"33,723","99,500",42,42,0,0,17,17,0,0,0,0
+Tribarrel,18,775,Guns,Weapons,Heroic Pack,,"56,500",42,42,0,0,17,17,0,17,0,0
+Double Barrel,19,550,Guns,Weapons,,"7,456","33,000",45,45,0,0,19,19,0,19,0,0
+Fire Gun,21,625,Guns,Weapons,,"12,683","47,500",51,51,0,0,23,23,0,23,0,0
+Conqueror,22,825,Guns,Weapons,Iron Chest,"75,076","225,000",54,54,0,0,25,25,0,25,0,0
+War Axe Pistol,24,750,Guns,Weapons,,"18,557","69,500",60,60,0,0,30,30,0,30,0,0
+Thunder Shot,26,825,Guns,Weapons,,"42,717","160,000",66,66,0,0,36,36,0,36,0,0
+Candy Cane Pistol,27,"1,325",Guns,Weapons,Holiday Pack,"132,152","330,000",72,72,0,0,39,39,0,39,0,0
+Death Missive,29,975,Guns,Weapons,,"61,395","230,000",84,84,0,0,45,45,0,45,0,0
+Rising Sun,33,"1,150",Guns,Weapons,,"114,975","350,000",102,102,0,0,57,57,0,57,0,0
+One-Shot,35,"1,250",Guns,Weapons,,"226,665","690,000",111,111,0,0,63,63,0,63,30,0
+Judgement,36,"1,950",Guns,Weapons,Magic Chest,"985,534","2,000,000",120,120,0,0,66,66,0,66,0,0
+Bomb Launcher,37,"1,675",Guns,Weapons,Magic Chest,"656,941","1,600,000",126,126,0,0,69,69,0,69,34,0
+Solar Flare,38,"1,400",Guns,Weapons,,"307,134","935,000",132,132,0,0,72,72,0,72,36,0
+Nordic Warfare,39,"2,175",Guns,Weapons,Magic Chest,"1,502,700","3,050,000",141,141,0,0,75,75,0,75,38,0
+Harpoon Gun,41,"1,550",Guns,Weapons,,"714,143","1,850,000",165,165,0,0,81,81,0,81,42,0
+Pirate Pistol,47,"2,325",Guns,Weapons,Dwarvish Chest,"3,309,716","9,650,000",255,255,0,0,102,102,0,102,65,0
+G.F.G.,48,"2,875",Guns,Weapons,Advanced Shopfare,"6,813,592","17,450,000",270,270,0,0,108,108,0,108,0,0
+Demonic Blast,50,"3,025",Guns,Weapons,Primal Chest,"6,593,328","18,700,000",300,300,0,0,120,120,0,120,100,0
+Cuirass,1,9,Armor,Armor,,6,16,2,0,1,0,0,0,0,0,0,0
+Banded Mail,3,38,Armor,Armor,,22,95,5,0,3,0,0,0,0,0,0,0
+Scale Mail,4,56,Armor,Armor,,45,215,8,0,4,0,0,0,0,0,0,0
+Ring Mail,5,76,Armor,Armor,,67,320,11,0,6,0,0,0,0,0,0,0
+Chainmail,8,140,Armor,Armor,,206,995,21,0,11,0,0,0,0,0,0,0
+Half Plate,9,165,Armor,Armor,,340,"1,650",25,0,13,0,0,0,0,3,0,0
+Chimalli,10,290,Armor,Armor,Cinco De Mayo Pack,,"4,150",30,15,0,0,5,0,0,0,0,0
+Moonplate,10,240,Armor,Armor,Leather Chest,"1,133","4,400",30,0,15,0,0,0,0,0,0,0
+Steel Cuirass,11,220,Armor,Armor,,804,"3,550",35,0,18,0,6,0,0,5,0,0
+Full Plate,14,300,Armor,Armor,,"1,177","5,200",50,0,25,0,12,0,0,9,0,0
+Longmail,17,390,Armor,Armor,,"2,824","12,500",65,0,33,0,24,0,0,18,0,0
+Noble Plate,18,625,Armor,Armor,Iron Chest,"12,371","36,500",70,0,35,0,28,0,0,21,0,0
+Silvered Scales,19,460,Armor,Armor,,"5,987","26,500",75,0,38,0,32,0,0,24,0,3
+Arcane Guard,22,550,Armor,Armor,,"11,478","43,000",90,0,45,0,42,0,0,32,0,5
+Runic Mail,23,600,Armor,Armor,,"18,017","67,500",95,0,48,0,46,0,0,35,7,5
+Chaos Armor,25,825,Armor,Armor,Golden Chest,"135,155","405,000",105,0,53,0,55,0,0,41,10,8
+Shining Armor,27,725,Armor,Armor,,"50,725","190,000",120,0,60,0,65,0,0,49,0,11
+Valkyrie Armor,30,"1,275",Armor,Armor,Warrior Pack,"254,240","635,000",145,0,73,0,80,0,0,60,20,15
+White Fullplate,32,925,Armor,Armor,,"75,564","230,000",165,0,83,0,90,0,0,68,24,18
+Eldritch Mail,35,"1,550",Armor,Armor,Magic Chest,"1,379,700","2,800,000",185,0,93,0,105,0,0,79,0,23
+Golden Heart,36,"1,075",Armor,Armor,,"100,196","305,000",200,0,100,0,110,0,0,83,32,24
+Gaia's Fortress,38,"1,450",Armor,Armor,Magic Chest,"451,667","1,100,000",220,0,110,0,120,0,0,90,36,27
+Draconic Plate,39,"1,800",Armor,Armor,Magic Chest,"1,749,044","3,550,000",235,0,118,0,125,0,0,94,38,29
+Twilight Cuirass,40,"1,250",Armor,Armor,,"274,285","835,000",250,0,125,0,130,0,0,98,40,30
+Crimson Plate,42,"1,325",Armor,Armor,,"617,912","1,700,000",300,0,150,0,140,0,0,105,45,34
+Earthen Mail,46,"1,875",Armor,Armor,Dwarvish Chest,"3,655,345","10,100,000",400,0,200,0,160,0,0,120,60,45
+Hallowed Casket,48,,Armor,Armor,Spooky Shop Pack,,"11,950,000",450,0,225,0,180,0,0,135,70,35
+Oracle's Armor,49,"2,450",Armor,Armor,City Raid,"7,787,946","21,000,000",475,0,238,0,190,0,0,143,80,60
+Leather Vest,1,9,Vests,Armor,,4,10,0,0,2,0,0,0,0,0,0,0
+Hide Armor,2,22,Vests,Armor,,6,28,0,0,3,0,0,0,0,0,0,0
+Boiled Leather,4,56,Vests,Armor,,45,215,4,0,8,0,0,0,0,0,0,0
+Brigandine,6,96,Vests,Armor,,106,510,8,0,15,0,0,0,0,0,0,0
+Merchant's Armor,7,180,Vests,Armor,Heroic Pack,,"1,312",0,0,18,0,0,0,0,0,0,0
+Leather Cuirass,8,140,Vests,Armor,,144,695,0,0,21,0,0,0,0,0,0,0
+Studded Leather,11,220,Vests,Armor,,407,"1,800",0,0,35,0,0,0,6,0,0,0
+Raccoon Ranger,12,310,Vests,Armor,Leather Chest,"2,446","8,650",0,0,40,0,0,0,8,6,0,0
+Poison Studs,13,270,Vests,Armor,,960,"4,250",0,0,45,0,0,0,10,8,0,0
+Strapped Leather,16,360,Vests,Armor,,"1,470","6,500",0,0,60,0,0,0,20,15,0,0
+Plated Tunic,17,600,Vests,Armor,Iron Chest,"7,796","23,000",0,0,65,0,0,12,24,0,0,0
+Jacket,17,600,Vests,Armor,Pack of all Trades,"8,304","24,500",0,0,65,0,0,0,24,18,0,0
+Plated Leather,18,420,Vests,Armor,,"2,711","12,000",35,0,70,0,0,0,28,21,0,0
+Bear Armor,21,525,Vests,Armor,,"4,806","18,000",0,0,85,0,0,0,38,29,0,5
+Nightingale,24,625,Vests,Armor,,"13,751","51,500",0,0,100,0,0,0,50,38,0,0
+Genji Armor,26,700,Vests,Armor,,"23,227","87,000",0,0,110,0,0,0,60,0,0,12
+Oiled Leather,28,975,Vests,Armor,Golden Chest,"30,200","90,500",0,0,130,0,0,0,70,53,0,16
+Layered Armor,29,800,Vests,Armor,,"37,371","140,000",0,0,140,0,0,38,75,0,0,0
+Gold Stitch,32,925,Vests,Armor,,"55,852","170,000",0,0,165,0,0,0,90,68,0,24
+Wyrm Hide,33,"1,450",Vests,Armor,Golden Chest,"460,721","935,000",0,0,170,0,0,0,95,0,20,26
+White Crow,36,"1,075",Vests,Armor,,"129,762","395,000",0,0,200,0,0,0,110,83,0,32
+Shadow Lurker,38,"1,450",Vests,Armor,Magic Chest,"338,750","825,000",0,0,220,0,0,60,120,90,27,36
+Moonscale Armor,39,"1,200",Vests,Armor,,"202,002","615,000",0,0,235,0,0,0,125,94,29,38
+Valkyrie's Embrace,40,"1,875",Vests,Armor,Ninja Pack,"862,274","1,750,000",0,0,250,0,0,0,130,98,0,40
+Dragon Skin,41,"1,925",Vests,Armor,Magic Chest,"3,126,790","5,400,000",0,0,275,0,0,0,135,101,32,42
+Pirate Armor,42,"1,325",Vests,Armor,,"545,216","1,500,000",0,0,300,0,0,0,140,105,34,45
+Ocean Leather,47,"1,950",Vests,Armor,Dwarvish Chest,"4,784,512","13,950,000",0,0,425,0,0,85,170,128,49,65
+Black Crow,50,"2,525",Vests,Armor,Primal Chest,"7,545,305","21,400,000",0,0,500,0,0,0,200,150,75,100
+Hard Hat,1,9,Helmets,Armor,,4,10,2,0,0,0,0,0,0,0,0,0
+Iron Cap,2,22,Helmets,Armor,,6,28,3,0,0,0,0,0,0,0,0,0
+Iron Helmet,4,56,Helmets,Armor,,49,230,8,0,7,0,0,0,0,0,0,0
+Horned Helm,5,76,Helmets,Armor,,83,400,11,0,10,0,0,0,0,0,0,0
+Full Helm,6,96,Helmets,Armor,,146,705,15,0,14,0,0,0,0,0,0,0
+Warrior's Helmet,9,165,Helmets,Armor,,350,"1,700",25,0,23,0,4,0,0,0,0,0
+Moonlight Cap,10,240,Helmets,Armor,Leather Chest,"1,249","4,850",30,0,27,0,0,0,0,0,0,0
+Spangenhelm,11,220,Helmets,Armor,,758,"3,350",35,0,32,0,6,0,0,0,0,0
+Scale Helmet,14,300,Helmets,Armor,,"1,437","6,350",50,0,45,0,12,0,0,0,0,0
+Knight's Helm,17,390,Helmets,Armor,,"2,486","11,000",65,0,59,0,24,0,0,0,0,0
+Paladin's Helmet,19,675,Helmets,Armor,Iron Chest,"21,181","62,500",75,0,68,0,32,0,0,0,3,4
+Great Helm,21,525,Helmets,Armor,,"4,940","18,500",85,0,77,0,38,0,0,0,0,0
+Frozen Helm,23,750,Helmets,Armor,Iron Chest,"61,724","185,000",95,0,86,0,46,0,0,0,5,7
+Silver Helm,25,650,Helmets,Armor,,"17,487","65,500",105,0,95,0,55,0,0,0,0,10
+Dragoon's Casque,28,775,Helmets,Armor,,"32,035","120,000",130,0,117,0,70,0,0,0,0,16
+Elir's Barbuta,31,875,Helmets,Armor,,"62,425","190,000",150,0,135,0,85,0,0,0,17,22
+Adventurer's Helm,32,"1,375",Helmets,Armor,Pack of all Trades,"157,699","320,000",165,0,149,0,90,0,0,0,18,24
+Mercurial,33,950,Helmets,Armor,,"96,908","295,000",170,0,153,0,95,0,0,0,20,26
+Phoenix Helmet,34,"1,500",Helmets,Armor,Golden Chest,"862,339","1,750,000",175,0,158,0,100,0,0,0,21,28
+Champion's Helm,35,"1,050",Helmets,Armor,,"256,230","780,000",185,0,167,0,105,0,0,0,0,30
+Dragonscale Helmet,38,"1,450",Helmets,Armor,Magic Chest,"595,380","1,450,000",220,0,198,0,120,0,0,0,27,36
+Viking Helm,39,"1,200",Helmets,Armor,,"300,540","915,000",235,0,212,0,125,0,0,0,29,38
+Adamantium Helm,40,"1,875",Helmets,Armor,Magic Chest,"1,699,912","3,450,000",250,0,225,0,130,0,0,0,30,40
+Valkyrie Helm,41,"1,925",Helmets,Armor,Warrior Pack,"1,389,684","2,400,000",275,0,248,0,135,0,0,0,32,42
+Golden Helm,42,"1,325",Helmets,Armor,,"672,434","1,850,000",300,0,270,0,140,0,0,0,34,45
+Frostfire Barbuta,45,"1,825",Helmets,Armor,Dwarvish Chest,"2,905,879","7,600,000",375,0,338,0,155,0,0,0,41,55
+Hallowed Skull,47,,Helmets,Armor,Hollow Pack,,"10,500,000",425,0,383,0,170,0,0,0,49,65
+Jade Helm,50,"2,525",Helmets,Armor,Primal Chest,"6,875,395","19,500,000",500,0,450,0,200,0,0,0,75,100
+Light Gauntlets,2,22,Gauntlets,Armor,,6,28,3,0,0,0,0,0,0,0,0,0
+Gauntlets,3,38,Gauntlets,Armor,,22,95,5,0,0,0,0,0,0,0,0,0
+Vambrace,5,76,Gauntlets,Armor,,95,455,11,0,10,0,0,0,0,0,0,0
+Long Gauntlets,7,120,Gauntlets,Armor,,203,980,18,0,16,0,0,0,0,0,0,0
+Meshed Gauntlets,8,140,Gauntlets,Armor,,311,"1,500",21,0,19,0,0,0,0,0,0,0
+Moonlight Gauntlets,10,240,Gauntlets,Armor,Leather Chest,"1,660","6,450",30,0,27,0,0,0,0,0,0,0
+Chainmail Gauntlets,12,245,Gauntlets,Armor,,826,"3,650",40,0,36,0,8,0,0,0,0,0
+Jagged Gauntlets,15,330,Gauntlets,Armor,,"1,673","7,400",55,0,50,0,16,0,0,0,0,0
+Lord's Gauntlets,16,360,Gauntlets,Armor,,"3,505","15,500",60,0,54,0,20,0,0,0,0,0
+Steel Vambrace,19,460,Gauntlets,Armor,,"6,326","28,000",75,0,68,0,32,0,0,0,0,0
+Frozen Grip,20,725,Gauntlets,Armor,Iron Chest,"45,751","135,000",80,0,72,0,35,0,0,0,4,5
+Silver Gauntlets,23,600,Gauntlets,Armor,,"16,816","63,000",95,0,86,0,46,0,0,0,0,0
+King's Gauntlets,25,825,Gauntlets,Armor,Golden Chest,"88,435","265,000",105,0,95,0,55,0,0,0,8,10
+Bloodlust Gauntlets,27,725,Gauntlets,Armor,,"32,037","125,000",120,0,108,0,65,0,0,0,0,14
+Dark Vambrace,30,850,Gauntlets,Armor,,"49,380","190,000",145,0,131,0,80,0,0,0,0,20
+Protector Gauntlets,31,875,Gauntlets,Armor,,"87,066","265,000",150,0,135,0,85,0,0,0,17,22
+Shockers,32,"1,375",Gauntlets,Armor,Golden Chest,"189,731","380,000",165,0,149,0,90,0,0,0,18,24
+Hallowed Grip,32,,Gauntlets,Armor,Hollow Pack,,"430,000",165,0,149,0,90,0,0,0,18,24
+Giga-Brace,35,"1,050",Gauntlets,Armor,,"126,472","415,000",185,0,167,0,105,0,0,0,23,30
+Fire Smashers,37,"1,125",Gauntlets,Armor,,"290,696","915,000",210,0,189,0,115,0,0,0,26,34
+Dragonscale Gauntlets,38,"1,450",Gauntlets,Armor,Magic Chest,"718,561","1,800,000",220,0,198,0,120,0,0,0,27,36
+Twilight Fists,39,"1,200",Gauntlets,Armor,,"344,882","1,100,000",235,0,212,0,125,0,0,0,29,38
+Adamantium Fists,40,"1,875",Gauntlets,Armor,Magic Chest,"1,921,639","3,900,000",250,0,225,0,130,0,0,0,30,40
+Golden Gauntlets,43,"1,375",Gauntlets,Armor,,"805,347","2,400,000",325,0,293,0,145,0,0,0,36,48
+Frostfire Gauntlets,45,"2,200",Gauntlets,Armor,Winter Pack,"4,198,231","9,150,000",375,0,338,0,155,0,0,0,41,55
+Berserker Gauntlets,46,"1,875",Gauntlets,Armor,Dwarvish Chest,"4,813,473","13,600,000",400,0,360,0,160,0,0,0,45,60
+Valkyrie's Grip,47,"2,325",Gauntlets,Armor,Warrior Pack,"5,473,893","13,300,000",425,0,383,0,170,0,0,0,49,65
+Volcanic Smashers,49,"2,450",Gauntlets,Armor,Primal Chest,"8,900,510","24,800,000",475,0,428,0,190,0,0,0,60,80
+Heavy Boots,1,9,Boots,Armor,,8,22,2,0,2,0,0,0,0,0,0,0
+Rider's Boots,3,38,Boots,Armor,,27,120,5,0,5,0,0,0,0,0,0,0
+Chain Greaves,4,56,Boots,Armor,,49,230,8,0,7,0,0,0,0,0,0,0
+Plated Boots,6,96,Boots,Armor,,146,705,15,0,14,0,0,0,0,0,0,0
+Traveling Boots,8,140,Boots,Armor,,259,"1,250",21,0,19,0,0,0,0,0,0,0
+Moon Boots,9,210,Boots,Armor,Wooden Chest,"1,108","4,300",25,0,23,0,0,0,0,0,0,0
+Red Boots,10,190,Boots,Armor,,608,"2,950",30,0,27,0,0,0,5,0,0,0
+Lion Boots,12,370,Boots,Armor,Leather Chest,"4,242","12,500",40,0,36,0,8,0,7,4,0,0
+Explorer Boots,13,270,Boots,Armor,,"1,536","6,800",45,0,41,0,10,0,9,0,0,0
+Valkyrie Boots,14,450,Boots,Armor,Warrior Pack,"5,771","17,000",50,0,45,0,12,0,0,6,0,0
+Sabaton,15,330,Boots,Armor,,"2,215","9,800",55,0,50,0,16,0,0,0,0,0
+Warrior's Greaves,18,420,Boots,Armor,,"4,406","19,500",70,0,63,0,28,0,0,14,0,0
+Knight Riders,21,525,Boots,Armor,,"10,146","38,000",85,0,77,0,38,0,34,19,0,0
+Adventurer's Boots,24,950,Boots,Armor,Pack of all Trades,"54,068","135,000",100,0,90,0,50,0,0,25,0,0
+Silvered Greaves,25,650,Boots,Armor,,"25,763","96,500",105,0,95,0,55,0,0,28,0,10
+Flame Greaves,27,925,Boots,Armor,Golden Chest,"81,761","245,000",120,0,108,0,65,0,0,33,11,14
+Lord's Boots,29,800,Boots,Armor,,"34,702","130,000",140,0,126,0,75,0,68,38,0,18
+Magic Riders,30,"1,275",Boots,Armor,Golden Chest,"150,141","375,000",145,0,131,0,80,0,0,40,15,20
+Frost Sabatons,32,925,Boots,Armor,,"59,137","180,000",165,0,149,0,90,0,0,0,18,24
+Hallowed Stomper,33,,Boots,Armor,Spooky Shop Pack,,"660,000",170,0,153,0,95,0,0,0,20,26
+Earthshakers,34,"1,000",Boots,Armor,,"123,191","375,000",175,0,158,0,100,0,0,0,21,28
+King's Boots,37,"1,125",Boots,Armor,,"410,588","1,250,000",210,0,189,0,115,0,104,58,0,34
+Skull Stompers,38,"1,450",Boots,Armor,Magic Chest,"903,334","2,200,000",220,0,198,0,120,0,0,60,27,36
+Draconic Greaves,39,"1,800",Boots,Armor,Magic Chest,"1,305,625","2,650,000",235,0,212,0,125,0,0,63,29,38
+Adamantium Boots,40,"1,250",Boots,Armor,,"558,425","1,700,000",250,0,225,0,130,0,117,65,0,40
+Royal Greaves,43,"1,375",Boots,Armor,,"1,096,642","3,200,000",325,0,293,0,145,0,131,73,0,48
+Obsidian Greaves,47,"1,950",Boots,Armor,Dwarvish Chest,"3,326,865","9,700,000",425,0,383,0,170,0,0,85,49,65
+Titan's Feet,50,"2,525",Boots,Armor,Primal Chest,"8,021,294","22,750,000",500,0,450,0,200,0,0,100,75,100
+Tunic,1,10,Clothes,Armor,,4,10,0,0,2,0,0,0,0,0,0,0
+Cloak,2,22,Clothes,Armor,,6,28,0,0,3,0,0,0,0,0,0,0
+Mantle,4,56,Clothes,Armor,,40,190,0,0,8,0,0,0,0,0,0,0
+Red Tunic,5,76,Clothes,Armor,,48,230,0,0,11,0,0,0,0,0,0,0
+Robe,7,120,Clothes,Armor,,105,505,0,0,18,0,0,0,0,0,0,0
+Doublet,9,165,Clothes,Armor,,206,"1,000",0,0,25,0,0,0,4,0,0,0
+Apprentice Robes,11,220,Clothes,Armor,,441,"1,950",0,0,35,0,0,0,6,0,0,0
+Ice Cloak,13,340,Clothes,Armor,Leather Chest,"4,378","15,500",0,0,45,0,0,0,10,0,0,0
+Magician's Cloak,15,330,Clothes,Armor,,"1,288","5,700",0,0,55,0,0,0,16,0,0,0
+Silk Robe,17,390,Clothes,Armor,,"2,373","10,500",0,0,65,0,0,0,24,0,0,0
+Mage Robe,19,675,Clothes,Armor,Iron Chest,"11,692","34,500",0,0,75,0,0,0,32,0,4,3
+Sacred Tunic,21,525,Clothes,Armor,,"6,675","25,000",0,0,85,0,0,0,38,0,5,0
+Imperial Mantle,25,650,Clothes,Armor,,"11,747","44,000",0,0,105,0,0,0,55,0,10,9
+Gaia's Mantle,27,"1,100",Clothes,Armor,Thanksgiving Pack,"58,067","145,000",0,0,120,0,0,0,65,0,14,12
+Stealth Apparel,28,775,Clothes,Armor,,"21,891","82,000",0,0,130,0,0,0,70,0,16,14
+Storm Apparel,29,"1,000",Clothes,Armor,Golden Chest,"60,061","180,000",0,0,140,0,0,0,75,0,18,15
+Night Walker,31,875,Clothes,Armor,,"47,640","145,000",0,0,150,0,0,0,85,0,22,19
+Sorcerer Robe,32,"1,375",Clothes,Armor,Golden Chest,"480,489","975,000",0,0,165,0,0,0,90,0,24,20
+Nightmare Cape,33,"1,450",Clothes,Armor,Halloween Pack,"389,273","790,000",0,0,170,0,0,0,95,0,26,22
+Sage's Robe,34,"1,000",Clothes,Armor,,"52,562","160,000",0,0,175,0,0,0,100,0,28,24
+Shimmering Robe,36,"1,075",Clothes,Armor,,"152,758","465,000",0,0,200,0,0,0,110,0,32,27
+Plasmic Robe,38,"1,450",Clothes,Armor,Magic Chest,"821,213","2,000,000",0,0,220,0,0,0,120,0,36,31
+Archwizard Robe,39,"1,800",Clothes,Armor,Magic Chest,"2,241,733","4,550,000",0,0,235,0,0,0,125,0,38,32
+Twilight Robe,40,"1,250",Clothes,Armor,,"325,201","990,000",0,0,250,0,0,0,130,0,40,34
+King's Mantle,43,"1,375",Clothes,Armor,,"753,941","2,200,000",0,0,325,0,0,0,145,0,48,41
+Patriot's Jacket,46,"2,250",Clothes,Armor,Patriot Pack,,"9,450,000",0,0,400,0,0,0,160,0,60,51
+Mage Doublet,47,"1,950",Clothes,Armor,Dwarvish Chest,"2,829,550","8,250,000",0,0,425,0,0,0,170,0,65,55
+Holy Tunic,50,"2,525",Clothes,Armor,Primal Chest,"6,769,620","19,200,000",0,0,500,0,0,0,200,0,100,85
+Targe,2,22,Shields,Armor,,8,34,0,3,0,0,0,0,0,0,0,0
+Buckler,3,38,Shields,Armor,,17,75,0,5,0,0,0,0,0,0,0,0
+Small Shield,5,76,Shields,Armor,,55,265,11,0,0,0,0,0,0,0,0,0
+Heater Shield,6,96,Shields,Armor,,114,550,15,0,0,0,0,0,0,0,0,0
+Protector,8,175,Shields,Armor,Wooden Chest,427,"1,650",0,21,0,0,0,0,0,0,0,0
+Meat Shield,8,215,Shields,Armor,Epic Pack,,"1,650",0,21,0,0,0,0,0,0,0,0
+Kite Shield,9,165,Shields,Armor,,227,"1,100",0,25,0,0,0,0,0,0,0,0
+Tower Shield,11,220,Shields,Armor,,509,"2,250",0,35,0,0,0,0,0,0,0,0
+Moonlight Shield,14,300,Shields,Armor,,"1,222","5,400",0,50,0,0,0,12,0,0,0,0
+Knight Shield,17,390,Shields,Armor,,"2,712","12,000",65,0,0,0,24,0,0,0,0,0
+Fire Proof,18,625,Shields,Armor,Iron Chest,"7,626","22,500",70,0,0,0,28,0,0,0,3,0
+Venomous Buckler,20,490,Shields,Armor,,"4,293","19,000",0,80,0,0,0,35,0,0,0,0
+Aegis,21,650,Shields,Armor,Iron Chest,"21,193","63,500",0,85,0,0,0,38,0,0,0,5
+Bulwark,22,825,Shields,Armor,Warrior Pack,"15,015","37,500",90,0,0,0,42,0,0,0,0,0
+Reflective Shield,23,600,Shields,Armor,,"7,874","29,500",95,0,0,0,46,0,0,0,6,0
+Skeleton Shield,25,650,Shields,Armor,,"10,545","39,500",0,105,0,0,0,55,0,0,9,0
+Spiked Shield,27,725,Shields,Armor,,"22,025","82,500",120,0,0,0,65,0,0,0,0,14
+Ember Shield,29,800,Shields,Armor,,"36,036","135,000",140,0,0,0,75,0,0,0,15,0
+Crystal Shield,30,"1,275",Shields,Armor,Golden Chest,"304,287","760,000",145,0,0,0,80,0,0,0,17,20
+Argus' Shield,31,875,Shields,Armor,,"88,709","270,000",150,0,0,0,85,0,0,0,0,22
+Blessed Aegis,34,"1,000",Shields,Armor,,"154,400","470,000",0,175,0,0,0,100,0,0,24,0
+Dragon Skull,37,"1,400",Shields,Armor,Magic Chest,"821,176","2,000,000",0,210,0,0,0,115,0,0,29,34
+Hawk Shield,38,"1,175",Shields,Armor,,"234,867","715,000",0,220,0,0,0,120,0,0,31,36
+Giantshield,39,"1,800",Shields,Armor,Magic Chest,"1,847,582","3,750,000",235,0,0,0,125,0,0,0,32,38
+Adventurer's Shield,40,"1,875",Shields,Armor,Pack of all Trades,"2,365,095","4,800,000",250,0,0,0,130,0,0,0,34,40
+Twilight Aegis,41,"1,300",Shields,Armor,,"540,433","1,400,000",0,275,0,0,0,135,0,0,36,42
+Medusa Buckler,47,"1,950",Shields,Armor,Dwarvish Chest,"4,887,404","14,250,000",0,425,0,0,0,170,0,0,55,65
+Oracle Shield,50,"2,525",Shields,Armor,Primal Chest,"7,721,598","21,900,000",500,0,0,0,200,0,0,0,85,100
+Circlet,1,9,Hats,Armor,,4,10,0,0,2,0,0,0,0,0,0,0
+Hood,2,22,Hats,Armor,,6,28,0,0,3,0,0,0,0,0,0,0
+Monk's Hat,3,38,Hats,Armor,,30,130,0,0,5,0,0,0,0,0,0,0
+Buckle Hat,6,96,Hats,Armor,,69,335,0,0,15,0,0,0,0,0,0,0
+Robin's Hood,8,175,Hats,Armor,Wooden Chest,518,"2,000",0,0,21,0,0,0,0,0,0,0
+Plumed Hat,8,140,Hats,Armor,,156,755,0,0,21,0,0,0,0,0,0,0
+Pumpkinhead,8,215,Hats,Armor,Halloween Pack,668,"2,150",0,11,21,0,0,2,0,0,0,0
+Thief's Hood,9,165,Hats,Armor,,237,"1,150",0,0,25,0,0,0,4,0,0,0
+Noble Tiara,11,220,Hats,Armor,,475,"2,100",9,0,35,0,0,0,6,0,0,0
+Light Visage,13,270,Hats,Armor,,712,"3,150",11,0,45,0,0,0,10,0,0,0
+Scarlet Coif,15,330,Hats,Armor,,"2,057","9,100",0,0,55,0,0,0,16,0,0,0
+Skadi's Tiara,18,625,Hats,Armor,Winter Pack,"17,116","50,500",0,0,70,0,0,0,28,0,0,0
+Magic Top,19,460,Hats,Armor,,"4,745","21,000",0,0,75,0,0,0,32,0,4,0
+Silver Crown,21,525,Hats,Armor,,"10,146","38,000",21,0,85,0,10,0,38,0,5,0
+Elven Coif,24,625,Hats,Armor,,"17,489","65,500",0,0,100,0,0,0,50,0,8,0
+Golden Crown,25,825,Hats,Armor,Golden Chest,"68,412","205,000",26,0,105,0,14,0,55,0,0,8
+Wise Cap,27,"1,100",Hats,Armor,Golden Chest,"152,175","380,000",0,0,120,0,0,0,65,0,0,0
+Dark Visage,28,775,Hats,Armor,,"28,031","105,000",33,0,130,0,18,0,70,0,16,0
+Shadowhood,31,875,Hats,Armor,,"45,997","140,000",0,0,150,0,0,0,85,0,22,0
+Death Veil,32,"1,375",Hats,Armor,Heroic Pack,,"570,000",0,83,165,0,0,45,90,0,24,0
+Archwizard's Hat,33,950,Hats,Armor,,"131,400","400,000",0,0,170,0,0,0,95,0,26,0
+Runic Tiara,34,"1,500",Hats,Armor,Golden Chest,"285,804","580,000",44,0,175,0,25,0,100,0,28,21
+Thunder Crown,36,"1,350",Hats,Armor,Magic Chest,"554,363","1,350,000",50,0,200,0,28,0,110,0,32,24
+Runic Coif,36,"1,075",Hats,Armor,,"188,894","575,000",0,0,200,0,0,0,110,0,32,24
+Jorou's Crown,38,"1,750",Hats,Armor,Thanksgiving Pack,"453,310","920,000",0,110,220,0,0,60,120,0,36,27
+Demonic Visage,39,"1,800",Hats,Armor,Magic Chest,"1,207,087","2,450,000",59,0,235,0,31,0,125,0,38,0
+Jade Visage,40,"1,250",Hats,Armor,,"344,910","1,050,000",63,0,250,0,33,0,130,0,40,30
+Cultist's Hood,47,"1,950",Hats,Armor,Dwarvish Chest,"2,812,401","8,200,000",0,0,425,0,43,0,170,0,65,49
+Loki's Mask,48,"2,400",Hats,Armor,Ninja Pack,"5,056,505","12,950,000",0,225,450,0,0,90,180,0,70,53
+Royal Tiara,50,"2,525",Hats,Armor,Primal Chest,"8,056,553","22,850,000",125,0,500,0,50,0,200,0,100,75
+Leather Bracers,1,9,Bracers,Armor,,4,10,0,0,2,0,0,0,0,0,0,0
+Gloves,2,22,Bracers,Armor,,6,28,0,0,3,0,0,0,0,0,0,0
+Wrist Guards,3,38,Bracers,Armor,,36,160,0,3,5,0,0,0,0,0,0,0
+Padded Gloves,5,76,Bracers,Armor,,85,410,0,0,11,0,0,0,0,0,0,0
+Fur Gloves,7,120,Bracers,Armor,,163,790,0,0,18,0,0,0,0,0,0,0
+Venomous Hands,9,210,Bracers,Armor,Wooden Chest,361,"1,400",0,0,25,0,0,0,0,0,0,0
+Woven Bracers,10,190,Bracers,Armor,,268,"1,300",0,0,30,0,0,0,0,0,0,0
+Dexterous Gloves,12,245,Bracers,Armor,,713,"3,150",0,0,40,0,0,0,8,0,0,0
+Elemental Bracers,14,300,Bracers,Armor,,"1,188","5,250",0,25,50,0,0,0,12,0,0,0
+Wisdom Gloves,14,450,Bracers,Armor,Wizard Pack,"5,771","17,000",0,0,50,0,0,0,12,0,0,0
+Grandmaster Gloves,15,420,Bracers,Armor,Leather Chest,"4,803","17,000",0,0,55,0,0,8,16,0,0,2
+Flaming Hands,16,360,Bracers,Armor,,"1,956","8,650",0,0,60,0,0,0,20,0,0,0
+Shadowed Gloves,18,625,Bracers,Armor,Iron Chest,"11,185","33,000",0,0,70,0,0,0,28,0,4,0
+Royal Bracers,20,490,Bracers,Armor,,"4,180","18,500",0,40,80,0,0,18,35,0,5,0
+Alchemist Gloves,22,550,Bracers,Armor,,"8,142","30,500",0,0,90,0,0,21,42,0,0,0
+Mage Bracers,24,625,Bracers,Armor,,"11,081","41,500",0,50,100,0,0,25,50,0,8,0
+Sorcerer's Bracers,26,700,Bracers,Armor,,"19,356","72,500",0,55,110,0,0,30,60,0,12,9
+Ehecatl's Gloves,28,"1,150",Bracers,Armor,Cinco De Mayo Pack,,"315,000",0,0,130,0,0,0,70,0,16,12
+Shield Bracers,30,850,Bracers,Armor,,"42,707","160,000",0,73,145,0,0,40,80,0,20,15
+Angel Gloves,35,"1,050",Bracers,Armor,,"116,617","355,000",0,0,185,0,0,0,105,53,30,23
+Freezing Bracers,36,"1,625",Bracers,Armor,Magic Chest,"640,597","1,300,000",0,100,200,0,0,55,0,0,32,24
+Runic Bracers,37,"1,125",Bracers,Armor,,"192,155","585,000",0,105,210,0,0,0,115,58,34,26
+Nightstalker Gloves,38,"1,450",Bracers,Armor,Magic Chest,"431,137","1,050,000",0,0,220,0,0,60,120,0,36,27
+Death Grip,39,"1,800",Bracers,Armor,Magic Chest,"1,354,893","2,750,000",0,0,235,0,0,63,125,0,38,29
+Midas' Gloves,40,"1,875",Bracers,Armor,Heroic Pack,,"2,650,000",0,0,250,0,0,0,130,0,40,30
+Cindari Gloves,41,"1,300",Bracers,Armor,,"312,679","810,000",0,0,275,0,0,0,135,68,42,32
+Frostfire Gloves,45,"1,825",Bracers,Armor,Dwarvish Chest,"3,039,703","7,950,000",0,0,375,0,0,78,155,0,55,41
+Archangel Gloves,49,"2,450",Bracers,Armor,City Raid,"6,452,869","17,400,000",0,0,475,0,0,95,190,0,80,60
+Sandals,1,9,Footwear,Armor,,6,16,0,1,2,0,0,0,0,0,0,0
+Shoes,2,22,Footwear,Armor,,10,44,0,2,3,0,0,0,0,0,0,0
+Druidic Shoes,3,58,Footwear,Armor,Wizard Pack,15,210,0,3,0,0,0,0,0,0,0,0
+Leather Shoes,4,56,Footwear,Armor,,39,185,0,4,8,0,0,0,0,0,0,0
+Fur Loafers,6,96,Footwear,Armor,,119,575,0,8,15,0,0,0,0,0,0,0
+Light Boots,7,120,Footwear,Armor,,189,915,0,9,18,0,0,0,0,0,0,0
+Elven Boots,8,175,Footwear,Armor,Wooden Chest,595,"2,300",0,11,21,0,0,0,0,0,0,0
+Dancer Shoes,9,165,Footwear,Armor,,309,"1,500",0,13,25,0,0,0,4,0,0,0
+Legion Sandals,11,220,Footwear,Armor,,577,"2,550",0,18,35,0,0,0,6,0,0,0
+Horned Shoes,14,300,Footwear,Armor,,"1,301","5,750",0,25,50,0,0,6,12,0,0,0
+Moon Walkers,15,500,Footwear,Armor,Leather Chest,"5,594","16,500",0,28,55,0,0,8,16,0,0,0
+Golden Shoes,17,390,Footwear,Armor,,"2,045","9,050",0,33,65,0,0,12,24,0,0,0
+Plumed Loafers,21,525,Footwear,Armor,,"5,207","19,500",0,43,85,0,0,19,38,0,5,0
+Winged Sandals,22,700,Footwear,Armor,Iron Chest,"21,856","65,500",0,45,90,0,0,21,0,0,0,5
+Imperial Sandals,25,650,Footwear,Armor,,"10,011","37,500",0,53,105,0,0,28,0,0,10,0
+Patriot Boots,27,"1,100",Footwear,Armor,Patriot Pack,,"140,000",0,60,120,0,0,33,65,0,14,11
+Genji Getas,28,775,Footwear,Armor,,"17,219","64,500",0,65,130,0,0,35,70,0,16,0
+Path Finders,29,"1,200",Footwear,Armor,Golden Chest,"224,227","560,000",0,70,140,0,0,38,0,0,18,14
+Floating Slippers,31,875,Footwear,Armor,,"39,426","120,000",0,75,150,0,0,43,0,0,0,0
+Wind Walkers,35,"1,050",Footwear,Armor,,"124,830","380,000",0,93,185,0,0,53,105,0,30,0
+Arcane Sandals,37,"1,125",Footwear,Armor,,"302,193","920,000",0,105,210,0,0,58,115,0,34,0
+Planeswalkers,38,"1,450",Footwear,Armor,Magic Chest,"882,804","2,150,000",0,110,220,0,0,60,0,0,36,27
+Adamantium Shoes,39,"1,200",Footwear,Armor,,"394,151","1,200,000",0,118,235,0,0,63,125,0,38,29
+Draconic Boots,40,"1,875",Footwear,Armor,Magic Chest,"1,773,821","3,600,000",0,125,250,0,0,65,130,0,40,0
+Jade Shoes,43,"1,375",Footwear,Armor,,"651,131","1,900,000",0,163,325,0,0,73,145,0,48,36
+Hopping Shoes,44,"2,125",Footwear,Armor,Easter Pack,,"8,500,000",0,175,350,0,0,75,150,0,51,38
+Frostfire Shoes,45,"1,825",Footwear,Armor,Dwarvish Chest,"4,072,055","10,650,000",0,188,375,0,0,78,0,0,55,41
+Firewalkers,49,"2,450",Footwear,Armor,Primal Chest,"7,899,202","21,300,000",0,238,475,0,0,95,190,0,80,60
+Healing Herbs,1,9,Remedies,Accessories,,5,12,0,0,0,2,0,0,0,0,0,0
+Antidote,2,22,Remedies,Accessories,,11,50,0,0,0,3,0,0,0,0,0,0
+Fungi Brew,3,38,Remedies,Accessories,,26,115,0,0,0,5,0,0,0,0,0,0
+Elderflower,6,96,Remedies,Accessories,,100,480,0,0,0,15,0,0,0,0,0,0
+Healing Mix,7,120,Remedies,Accessories,,183,885,0,0,0,18,0,0,0,0,0,0
+Colored Powder,8,175,Remedies,Accessories,Wooden Chest,712,"2,750",0,0,0,21,0,0,0,0,0,0
+Fire Moss,9,165,Remedies,Accessories,,299,"1,450",0,0,0,25,0,0,0,0,0,0
+Mistletoe,10,290,Remedies,Accessories,Holiday Pack,"1,097","3,550",0,0,0,30,0,0,0,0,0,0
+Sleeping Shrooms,11,220,Remedies,Accessories,,622,"2,750",0,0,0,35,0,0,0,6,0,0
+Bark Tea,13,270,Remedies,Accessories,,949,"4,200",0,0,0,45,0,0,0,10,0,0
+Fairy Sprinkle,15,330,Remedies,Accessories,,"1,684","7,450",0,0,0,55,0,0,0,16,0,0
+Anti-Venom,19,460,Remedies,Accessories,,"4,067","18,000",0,0,0,75,0,0,0,32,3,0
+Protection Dust,21,525,Remedies,Accessories,,"10,547","39,500",0,0,0,85,0,0,0,38,4,0
+Swift Seed,23,875,Remedies,Accessories,Iron Chest,"34,832","87,000",0,0,0,95,0,0,0,46,5,0
+Elven Cure,24,625,Remedies,Accessories,,"14,819","55,500",0,0,0,100,0,0,0,50,6,0
+Rejuvenating Tea,26,875,Remedies,Accessories,Golden Chest,"48,390","145,000",0,0,0,110,0,0,0,60,9,0
+Angel Dust,28,775,Remedies,Accessories,,"29,365","110,000",0,0,0,130,0,0,0,70,12,0
+Coldfire Dust,31,875,Remedies,Accessories,,"47,640","145,000",0,0,0,150,0,0,0,85,17,0
+Unicorn Essence,32,"1,375",Remedies,Accessories,Back to School Pack,,"665,000",0,0,0,165,0,0,0,90,18,0
+Strength Seed,34,"1,500",Remedies,Accessories,Golden Chest,"689,871","1,400,000",0,0,0,175,0,0,0,100,21,0
+Phoenix Dust,35,"1,050",Remedies,Accessories,,"169,177","515,000",0,0,0,185,0,0,0,105,23,0
+Panacea,37,"1,400",Remedies,Accessories,Magic Chest,"1,560,235","3,800,000",0,0,0,210,0,0,0,115,26,0
+Mystic Flower,39,"1,200",Remedies,Accessories,,"394,151","1,200,000",0,0,0,235,0,0,0,125,29,0
+Magic Seed,40,"1,875",Remedies,Accessories,Magic Chest,"3,301,278","6,700,000",0,0,0,250,0,0,0,130,30,0
+Albizia,41,"1,300",Remedies,Accessories,,"559,734","1,450,000",0,0,0,275,0,0,0,135,32,0
+Magic Beans,46,"2,250",Remedies,Accessories,Pack of all Trades,"3,995,545","9,200,000",0,0,0,400,0,0,0,160,45,0
+Devil Dust,47,"1,950",Remedies,Accessories,Dwarvish Chest,"2,692,360","7,850,000",0,0,0,425,0,0,0,170,49,0
+Draconic Tea,50,"2,525",Remedies,Accessories,Primal Chest,"10,365,980","29,400,000",0,0,0,500,0,0,0,200,75,0
+Health Vial,3,38,Potions,Accessories,,19,85,0,0,0,5,0,0,0,0,0,0
+Mana Vial,4,56,Potions,Accessories,,41,195,0,0,0,8,0,0,0,0,0,0
+Speed Potion,5,76,Potions,Accessories,,65,310,0,0,0,11,0,0,0,0,0,0
+Love Splash,6,96,Potions,Accessories,,93,450,0,0,0,15,0,0,0,0,0,0
+Healing Potion,7,120,Potions,Accessories,,169,815,0,0,0,18,0,0,0,0,0,0
+Toxic Vial,8,140,Potions,Accessories,,207,"1,000",0,0,0,21,0,0,0,0,0,0
+Energizing Potion,9,250,Potions,Accessories,Easter Pack,"1,051","3,400",0,0,0,25,0,0,0,0,0,0
+Elixir Drops,9,210,Potions,Accessories,Wooden Chest,502,"1,950",0,0,0,25,0,0,0,4,0,0
+Health Drink,10,190,Potions,Accessories,,556,"2,700",0,0,0,30,0,0,0,5,0,0
+Strength Potion,13,270,Potions,Accessories,,960,"4,250",0,0,0,45,0,0,0,10,0,0
+Warming Spray,15,330,Potions,Accessories,,"2,080","9,200",0,0,0,55,0,0,0,16,0,0
+Acidic Splash,17,390,Potions,Accessories,,"2,824","12,500",0,0,0,65,0,0,0,24,3,2
+Health Potion,20,490,Potions,Accessories,,"6,665","29,500",0,0,0,80,0,0,0,35,5,4
+Wisdom Potion,22,825,Potions,Accessories,Wizard Pack,"17,818","44,500",0,0,0,90,0,0,0,42,0,0
+Mana Potion,22,550,Potions,Accessories,,"21,889","82,000",0,0,0,90,0,0,0,42,6,5
+Demon's Blood,24,950,Potions,Accessories,Iron Chest,"54,068","135,000",0,0,0,100,0,0,0,50,8,6
+Elixir,26,875,Potions,Accessories,Golden Chest,"61,739","185,000",0,0,0,110,0,0,0,60,12,10
+Golden Potion,28,775,Potions,Accessories,,"40,044","150,000",0,0,0,130,0,0,0,70,16,13
+Life Potion,31,875,Potions,Accessories,,"82,138","250,000",0,0,0,150,0,0,0,85,22,18
+Invincibility Potion,33,950,Potions,Accessories,,"361,350","1,100,000",0,0,0,170,0,0,0,95,26,21
+Dragon's Blood,34,"1,500",Potions,Accessories,Golden Chest,"689,871","1,400,000",0,0,0,175,0,0,0,100,28,22
+Megalixir,36,"1,350",Potions,Accessories,Magic Chest,"1,006,066","2,450,000",0,0,0,200,0,0,0,110,32,26
+Twilight Potion,37,"1,125",Potions,Accessories,,"476,282","1,450,000",0,0,0,210,0,0,0,115,34,27
+Gods' Essence,39,"1,800",Potions,Accessories,Magic Chest,"2,857,593","5,800,000",0,0,0,235,0,0,0,125,38,30
+Clarity Potion,40,"1,250",Potions,Accessories,,"755,516","2,300,000",0,0,0,250,0,0,0,130,40,32
+Jack's Brew,44,"2,125",Potions,Accessories,Epic Pack,"5,460,176","11,250,000",0,0,0,350,0,0,0,150,51,41
+Obsidian Potion,47,"1,950",Potions,Accessories,Dwarvish Chest,"5,504,761","16,050,000",0,0,0,425,0,0,0,170,65,52
+Gaia's Essence,50,"2,525",Potions,Accessories,Primal Chest,"9,290,598","26,350,000",0,0,0,500,0,0,0,200,100,80
+Shielding Seal,5,76,Spells,Accessories,,69,330,0,0,11,0,0,0,0,0,0,0
+Fireball Scroll,7,120,Spells,Accessories,,193,935,0,0,18,0,0,0,0,0,0,0
+Poison Scroll,8,140,Spells,Accessories,,300,"1,450",0,0,21,0,0,0,0,0,0,0
+Lightning Scroll,9,165,Spells,Accessories,,556,"2,700",0,0,25,0,0,0,0,0,0,0
+Sleeping Totem,11,220,Spells,Accessories,,"1,007","4,450",0,18,0,35,0,0,0,6,0,0
+Firewall Scroll,12,245,Spells,Accessories,,"1,323","5,850",0,0,40,0,0,0,7,8,0,0
+Pain Totem,13,340,Spells,Accessories,Leather Chest,"3,530","12,500",0,23,0,45,0,5,0,0,0,0
+Charming Scroll,14,450,Spells,Accessories,Valentine's Pack,"5,771","17,000",0,0,50,0,0,0,10,12,0,0
+Deflection Seal,14,300,Spells,Accessories,,"1,844","8,150",25,0,0,0,6,0,0,0,0,0
+Freezing Scroll,16,360,Spells,Accessories,,"3,731","16,500",0,0,60,0,0,0,17,20,3,0
+Invisibility Scroll,18,420,Spells,Accessories,,"5,310","23,500",0,0,70,0,0,0,0,28,4,0
+Teleportation Scroll,21,525,Spells,Accessories,,"10,680","40,000",0,0,85,0,0,0,32,38,5,0
+Magical Codex,23,875,Spells,Accessories,Iron Chest,"52,048","130,000",0,0,95,0,0,0,39,46,7,6
+Paralysis Totem,24,625,Spells,Accessories,,"23,096","86,500",0,50,0,100,0,25,0,0,8,6
+Evil Seal,26,875,Spells,Accessories,Golden Chest,"101,786","305,000",55,0,0,0,30,0,0,60,12,10
+Possession Scroll,28,775,Spells,Accessories,,"30,700","115,000",0,0,130,0,0,0,60,70,16,13
+Power Seal,30,850,Spells,Accessories,,"108,102","405,000",73,0,0,0,40,0,0,80,20,16
+Njord,30,"1,275",Spells,Accessories,Wizard Pack,"232,219","580,000",0,0,145,0,0,0,68,80,20,16
+Gloom Totem,32,925,Spells,Accessories,,"208,622","635,000",0,83,0,165,0,45,0,0,24,19
+Arcane Compendium,33,"1,450",Spells,Accessories,Golden Chest,"960,863","1,950,000",0,0,170,0,0,0,81,95,26,21
+Disintegration Scroll,35,"1,050",Spells,Accessories,,"307,147","935,000",0,0,185,0,0,0,89,105,30,24
+Return Scroll,37,"1,400",Spells,Accessories,Magic Chest,"739,059","1,800,000",0,0,210,0,0,0,98,115,34,27
+Hawk Totem,38,"1,175",Spells,Accessories,,"427,031","1,300,000",0,110,0,220,0,60,0,0,36,29
+Divine Tome,40,"1,875",Spells,Accessories,Magic Chest,"2,389,731","4,850,000",0,0,250,0,0,0,111,130,40,32
+Twilight Seal,41,"1,300",Spells,Accessories,,"656,240","1,700,000",138,0,0,0,68,0,0,135,42,34
+Haunted Scroll,47,"1,950",Spells,Accessories,Dwarvish Chest,"3,875,626","11,300,000",0,0,425,0,0,0,145,170,65,52
+Primal Compendium,49,"2,450",Spells,Accessories,Back to School Pack,,"19,950,000",0,0,475,0,0,0,162,190,80,64
+Guardian Seal,50,"2,525",Spells,Accessories,Primal Chest,"6,293,631","17,850,000",250,0,0,0,100,0,0,200,100,80
+Darts,2,22,Projectiles,Accessories,,16,70,3,3,0,0,0,0,0,0,0,0
+Sling,3,38,Projectiles,Accessories,,34,150,5,0,4,0,0,0,0,0,0,0
+Boomerang,4,56,Projectiles,Accessories,,45,215,0,8,0,0,0,0,0,0,0,0
+Kunai,6,96,Projectiles,Accessories,,114,550,15,0,0,0,0,0,0,0,0,0
+Poison Darts,7,120,Projectiles,Accessories,,373,"1,800",18,18,0,5,0,0,0,0,0,0
+Fireworks,8,215,Projectiles,Accessories,Patriot Pack,,"3,650",21,21,0,0,0,0,0,0,0,0
+Smoke Bomb,9,165,Projectiles,Accessories,,546,"2,650",0,25,19,6,0,0,0,0,0,0
+Metal Boomerang,11,220,Projectiles,Accessories,,883,"3,900",35,0,0,0,6,0,0,0,0,0
+Toxic Bomb,12,310,Projectiles,Accessories,Leather Chest,"3,394","12,000",0,40,0,10,0,0,0,6,0,0
+Sleeping Bomb,13,270,Projectiles,Accessories,,"1,390","6,150",45,0,0,11,10,0,0,8,0,0
+Shock Darts,15,330,Projectiles,Accessories,,"2,939","13,000",55,55,0,0,16,16,0,0,0,0
+Shuriken,18,420,Projectiles,Accessories,,"4,745","21,000",70,0,0,0,28,0,0,21,0,0
+Elasti-Sling,20,490,Projectiles,Accessories,,"7,230","32,000",80,0,60,0,0,0,0,26,0,0
+Chakram,22,550,Projectiles,Accessories,,"14,415","54,000",90,0,0,0,42,0,0,0,0,5
+Bladed Feather,22,825,Projectiles,Accessories,Ninja Pack,"17,418","43,500",90,0,0,0,42,0,0,0,0,0
+Magic Shuriken,24,775,Projectiles,Accessories,Iron Chest,"51,732","155,000",100,0,0,0,50,0,0,0,6,0
+Singing Chakram,26,"1,050",Projectiles,Accessories,Golden Chest,"70,082","175,000",110,0,0,0,60,0,0,0,0,9
+Steelarang,28,775,Projectiles,Accessories,,"24,827","93,000",130,0,0,0,70,0,0,0,12,0
+Heart Seeker,28,"1,150",Projectiles,Accessories,Valentine's Pack,"84,092","210,000",130,0,0,0,70,0,0,0,12,0
+Seeking Kunai,30,850,Projectiles,Accessories,,"48,045","180,000",145,0,0,0,80,0,0,0,15,0
+Shredder,33,950,Projectiles,Accessories,,"91,980","280,000",170,0,0,43,95,0,0,71,20,0
+Exploding Darts,35,"1,300",Projectiles,Accessories,Magic Chest,"322,341","785,000",185,185,0,0,105,105,0,79,0,0
+Heart Piercer,36,"1,625",Projectiles,Accessories,Magic Chest,"1,305,833","2,650,000",200,0,0,0,110,0,0,0,24,0
+Light Boomerang,37,"1,125",Projectiles,Accessories,,"164,235","500,000",210,0,0,0,115,0,0,86,26,26
+Thunder Clap,38,"1,750",Projectiles,Accessories,Magic Chest,"862,274","1,750,000",0,220,0,0,0,120,0,90,27,0
+Dragon Darts,39,"1,200",Projectiles,Accessories,,"361,305","1,100,000",235,0,0,0,125,0,0,94,29,29
+Frostfire Kunai,45,"1,825",Projectiles,Accessories,Dwarvish Chest,"3,116,173","8,150,000",375,0,0,0,155,0,0,116,41,41
+Hell Bomb,49,"2,450",Projectiles,Accessories,City Raid,"6,731,010","18,150,000",0,475,0,0,0,190,0,143,60,60
+Iron Band,2,22,Rings,Valuables,,7,32,3,0,0,0,0,0,0,0,0,0
+Rabbit Ring,4,56,Rings,Valuables,,33,155,8,0,0,0,0,0,0,0,0,0
+Jewel Ring,5,76,Rings,Valuables,,64,305,11,0,0,0,0,0,0,0,0,0
+Shadow Mark,6,96,Rings,Valuables,,97,470,15,0,0,0,0,0,0,0,0,0
+Crescent Ring,7,120,Rings,Valuables,,137,660,18,0,0,0,0,0,0,0,0,0
+Moonstone Ring,9,165,Rings,Valuables,,258,"1,250",25,0,0,0,0,0,0,0,0,0
+Luck Band,11,220,Rings,Valuables,,702,"3,100",35,0,0,0,6,0,0,0,0,0
+Gold Digger,12,310,Rings,Valuables,Leather Chest,"1,145","4,050",40,0,0,0,0,0,0,0,0,0
+Soldier's Mark,13,270,Rings,Valuables,,960,"4,250",45,0,0,0,10,0,0,0,0,0
+Nimble Ring,14,450,Rings,Valuables,Ninja Pack,"5,262","15,500",50,0,0,0,12,0,0,0,0,0
+Fire Band,16,360,Rings,Valuables,,"2,261","10,000",60,0,0,0,20,0,0,0,0,3
+Sight Band,19,460,Rings,Valuables,,"3,615","16,000",75,0,0,0,32,0,0,0,0,4
+Undead Ring,21,525,Rings,Valuables,,"8,544","32,000",85,0,0,0,38,0,0,0,4,5
+Power Ring,23,600,Rings,Valuables,,"14,680","55,000",95,0,0,0,46,0,0,0,5,7
+Infinity Ring,24,950,Rings,Valuables,Heroic Pack,,"150,000",100,0,0,0,50,0,0,0,6,8
+Crusader Ring,25,825,Rings,Valuables,Golden Chest,"58,400","175,000",105,0,0,0,55,0,0,0,0,10
+Prayer Ring,27,"1,100",Rings,Valuables,Golden Chest,"98,113","245,000",120,0,0,0,65,0,0,0,11,14
+Wisdom Mark,28,775,Rings,Valuables,,"48,052","180,000",130,0,0,0,70,0,0,0,12,16
+Resistance Band,31,875,Rings,Valuables,,"70,638","215,000",150,0,0,0,85,0,0,0,17,22
+Dynamic Ring,32,"1,375",Rings,Valuables,Easter Pack,"391,783","795,000",165,0,0,0,90,0,0,0,18,24
+Truth Ring,33,950,Rings,Valuables,,"154,395","470,000",170,0,0,0,95,0,0,0,20,26
+Divine Mark,34,"1,500",Rings,Valuables,Golden Chest,"1,182,636","2,400,000",175,0,0,0,100,0,0,0,21,28
+Royal Ring,36,"1,350",Rings,Valuables,Magic Chest,"780,215","1,900,000",200,0,0,0,110,0,0,0,0,32
+Fallen Angel Ring,37,"1,125",Rings,Valuables,,"323,544","985,000",210,0,0,0,115,0,0,0,26,34
+Oracle,39,"1,800",Rings,Valuables,Magic Chest,"2,143,195","4,350,000",235,0,0,0,125,0,0,0,29,38
+Lich Ring,41,"1,300",Rings,Valuables,,"463,228","1,200,000",275,0,0,0,135,0,0,0,32,42
+Azure Ring,45,"1,825",Rings,Valuables,Dwarvish Chest,"6,404,405","16,750,000",375,0,0,0,155,0,0,0,0,55
+Antimagic Band,50,"2,525",Rings,Valuables,Primal Chest,"6,893,024","19,550,000",500,0,0,0,200,0,0,0,75,100
+Shiny Pendant,3,38,Pendants,Valuables,,23,100,3,0,4,0,0,0,0,0,0,0
+Opal Necklace,5,76,Pendants,Valuables,,67,320,6,0,8,0,0,0,0,0,0,0
+Scarlet Drop,6,96,Pendants,Valuables,,117,565,0,8,11,0,0,0,0,0,0,0
+Protection Pendant,8,140,Pendants,Valuables,,217,"1,050",0,11,16,0,0,0,0,0,0,0
+Luna Charm,10,190,Pendants,Valuables,,319,"1,550",0,0,23,0,3,0,0,0,0,0
+Wind Charm,11,270,Pendants,Valuables,Leather Chest,"1,655","5,850",18,0,26,0,0,0,0,0,0,0
+Skeleton Ward,12,245,Pendants,Valuables,,566,"2,500",0,0,30,0,0,4,0,0,0,0
+Hanging Journal,14,300,Pendants,Valuables,,951,"4,200",0,0,38,0,6,0,9,0,0,2
+Fiery Talisman,16,360,Pendants,Valuables,,"2,216","9,800",0,0,45,0,10,0,15,0,0,3
+Azure Beads,18,625,Pendants,Valuables,Advanced Shopfare,"12,371","36,500",0,0,53,0,14,0,0,0,0,4
+Timeless Locket,18,420,Pendants,Valuables,,"4,293","19,000",0,0,53,0,14,0,0,0,0,4
+Jade Amulet,20,490,Pendants,Valuables,,"6,552","29,000",0,0,60,0,18,0,0,0,5,5
+Obelisk Charm,22,550,Pendants,Valuables,,"11,345","42,500",0,0,68,0,21,0,0,0,5,6
+Turning Token,24,950,Pendants,Valuables,Iron Chest,"46,058","115,000",0,0,75,0,0,25,0,0,7,8
+Light Amulet,25,650,Pendants,Valuables,,"21,224","79,500",0,0,79,0,0,28,0,0,9,10
+Shielding Ward,27,925,Pendants,Valuables,Golden Chest,"66,743","200,000",0,0,90,0,33,0,0,0,13,14
+Phoenix Talon,29,800,Pendants,Valuables,,"50,718","190,000",0,0,105,0,0,38,0,0,16,18
+Freezing Ward,31,875,Pendants,Valuables,,"96,922","295,000",0,0,113,0,43,0,0,0,20,22
+Cat's Eye,34,"1,000",Pendants,Valuables,,"141,259","430,000",0,0,131,0,50,0,75,0,25,28
+Skadi's Charm,35,"1,550",Pendants,Valuables,Winter Pack,"517,387","1,050,000",0,0,139,0,53,0,0,0,0,30
+Lich's Heart,35,"1,550",Pendants,Valuables,Magic Chest,"788,400","1,600,000",0,0,139,0,0,53,0,0,27,30
+Draconic Amulet,36,"1,350",Pendants,Valuables,Magic Chest,"492,767","1,200,000",0,0,150,0,55,0,0,0,29,32
+Trine Charm,37,"1,125",Pendants,Valuables,,"256,207","780,000",0,0,158,0,58,0,86,0,31,34
+Goddess' Tear,38,"1,750",Pendants,Valuables,Magic Chest,"1,502,820","3,050,000",0,0,165,0,60,0,0,0,32,36
+Ancient Amulet,41,"1,300",Pendants,Valuables,,"482,529","1,250,000",0,0,206,0,68,0,101,0,38,42
+Champion's Medal,45,"2,200",Pendants,Valuables,Summer Sports Pack,"3,899,996","8,500,000",0,0,281,0,78,0,0,0,50,55
+Frostfire Talisman,47,"1,950",Pendants,Valuables,Dwarvish Chest,"4,029,965","11,750,000",0,0,319,0,85,0,128,0,59,65
+Gaia's Heart,50,"2,525",Pendants,Valuables,Primal Chest,"8,673,575","24,600,000",0,0,375,0,100,0,150,0,90,100
+Wood Flute,3,38,Instruments,Valuables,,18,80,0,4,0,0,0,0,0,0,0,0
+Small Drum,4,56,Instruments,Valuables,,74,350,0,6,4,0,0,0,0,0,0,0
+Pan Flute,7,120,Instruments,Valuables,,204,985,0,14,9,0,0,0,0,0,0,0
+Hand Drum,8,215,Instruments,Valuables,Back to School Pack,,"2,650",0,16,11,0,0,0,0,0,0,0
+Horn,9,165,Instruments,Valuables,,350,"1,700",0,19,13,0,0,0,0,0,0,0
+Harp,11,220,Instruments,Valuables,,985,"4,350",0,26,18,0,0,5,0,0,0,0
+Iron Flute,12,310,Instruments,Valuables,Leather Chest,"1,230","4,350",20,0,0,0,0,0,0,0,0,0
+Lute,15,330,Instruments,Valuables,,"1,684","7,450",0,41,28,0,0,12,0,0,0,0
+Frozen Harp,16,550,Instruments,Valuables,Iron Chest,"15,602","46,000",0,45,0,0,0,15,0,0,0,0
+Long Flute,18,420,Instruments,Valuables,,"2,711","12,000",0,53,0,0,0,21,0,0,0,0
+Oud,20,490,Instruments,Valuables,,"4,406","19,500",0,60,40,0,0,26,0,0,0,0
+Nordic Lute,22,550,Instruments,Valuables,,"13,213","49,500",0,68,45,0,0,32,0,0,0,0
+Military Tap,25,650,Instruments,Valuables,,"28,032","105,000",0,79,53,0,0,41,28,0,0,0
+Ygg Flute,26,875,Instruments,Valuables,Golden Chest,"36,710","110,000",0,83,0,0,0,45,0,0,12,0
+Silvered Flute,28,775,Instruments,Valuables,,"57,396","215,000",0,98,0,0,0,53,0,0,0,13
+Soothing Harp,30,850,Instruments,Valuables,,"86,748","325,000",0,109,0,0,0,60,0,0,20,0
+Wyrm Horn,31,"1,325",Instruments,Valuables,Golden Chest,"251,341","510,000",0,113,0,0,43,64,0,0,0,18
+Golden String,32,925,Instruments,Valuables,,"134,701","410,000",0,124,83,0,0,68,0,0,0,19
+Hell Hound,33,950,Instruments,Valuables,,"164,250","500,000",0,128,85,0,0,71,48,0,26,0
+Draconian Sound,35,"1,050",Instruments,Valuables,,"640,575","1,950,000",93,139,0,0,53,79,53,0,0,24
+Draconic Heartbeat,38,"1,450",Instruments,Valuables,Magic Chest,"882,804","2,150,000",0,165,110,0,0,90,60,0,36,29
+Twilight Flute,39,"1,200",Instruments,Valuables,,"788,302","2,400,000",0,176,0,0,0,94,63,0,0,30
+Angelic Strings,40,"1,875",Instruments,Valuables,Magic Chest,"3,178,096","6,450,000",0,188,125,0,0,98,65,0,40,32
+Ancient Horn,41,"1,300",Instruments,Valuables,,"1,312,480","3,400,000",0,206,0,0,0,101,68,0,0,34
+Frostfire Harp,45,"1,825",Instruments,Valuables,Dwarvish Chest,"5,869,112","15,350,000",0,281,188,0,0,116,78,0,55,44
+Angelic Bell,46,"2,250",Instruments,Valuables,Holiday Pack,"5,645,879","13,000,000",0,300,200,0,0,120,80,0,60,48
+Wisdom Ocarina,47,"2,325",Instruments,Valuables,Wizard Pack,"5,371,000","13,050,000",0,319,213,0,0,128,85,0,65,52
+Gaia's Flute,49,"2,450",Instruments,Valuables,City Raid,"7,380,006","19,900,000",0,356,238,0,0,143,95,0,80,64

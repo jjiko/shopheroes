@@ -1,0 +1,703 @@
+name,lv,class,unlock_name,crafts
+Shortsword,2,Swords,Knife,3
+Longsword,3,Swords,Shortsword,6
+Broadsword,5,Swords,Longsword,10
+Midnight Sword,6,Swords,Pack of all Trades,
+Rapier,7,Swords,Broadsword,8
+Claymore,8,Swords,Rapier,8
+Fire Blade,10,Swords,Leather Chest,
+Zweihander,12,Swords,Claymore,8
+Bastard Sword,14,Swords,Zweihander,18
+Sabre,16,Swords,Bastard Sword,18
+Wakizashi,19,Swords,Sabre,22
+Vorpal Sword,20,Swords,Iron Chest,
+Scimitar,23,Swords,Wakizashi,22
+Coldsteel,25,Swords,Golden Chest,
+Masamune,27,Swords,Scimitar,42
+Sawblade,30,Swords,Masamune,48
+Heaven's Will,31,Swords,Sawblade,42
+Abyssal Brand,32,Swords,Golden Chest,
+Bacon Blade,34,Swords,Meat Shield,40
+Slashing Tiger,35,Swords,Heaven's Will,42
+Excalibur,37,Swords,Slashing Tiger,38
+Stormbringer,38,Swords,Magic Chest,
+Twilight Scimitar,39,Swords,Excalibur,38
+Balmung,40,Swords,Obsidian Spear,70
+Dragonslayer,41,Swords,Magic Chest,
+Unholy Fangs,43,Swords,Twilight Scimitar,38
+Frostfire Blade,46,Swords,Dwarvish Chest,
+Durandal,50,Swords,Primal Chest,
+Knife,1,Daggers,,
+Pocket Knife,2,Daggers,Knife,3
+Kris,3,Daggers,Ninja Pack,
+Dirk,3,Daggers,Pocket Knife,10
+Parrying Dagger,5,Daggers,Dirk,6
+Stiletto,7,Daggers,Parrying Dagger,8
+White Dagger,9,Daggers,Wooden Chest,
+Broad Blade,10,Daggers,Stiletto,8
+Gutting Knife,12,Daggers,Broad Blade,10
+Hunting Knife,13,Daggers,Gutting Knife,18
+Crimson Heart,15,Daggers,Leather Chest,
+Mail Breaker,16,Daggers,Hunting Knife,18
+Phantom Katar,18,Daggers,Iron Chest,
+Switch Blade,20,Daggers,Mail Breaker,22
+Life Stealer,22,Daggers,Switch Blade,24
+Night Shiv,25,Daggers,Life Stealer,42
+Shadowripper,27,Daggers,Night Shiv,48
+Wing Blade,30,Daggers,Shadowripper,48
+Dark Hand,35,Daggers,Wing Blade,42
+Betrayer,36,Daggers,Magic Chest,
+Royal Dirk,37,Daggers,Dark Hand,38
+Seven Stars,38,Daggers,Magic Chest,
+Dragon Fang,39,Daggers,Magic Chest,
+Traitorous Blade,41,Daggers,Royal Dirk,38
+Tecpatl,44,Daggers,Ehacatl Gloves,80
+Obsidian Dagger,46,Daggers,Dwarvish Chest,
+Aphotic Shiv,49,Daggers,City Raid,
+Primal Dagger,50,Daggers,Midas' Gloves,30
+Hand Axe,2,Axes,Pocket Knife,6
+Iron Axe,3,Axes,Hand Axe,6
+Broad Axe,4,Axes,Iron Axe,6
+Halberd,5,Axes,Broad Axe,6
+Druidic Axe,6,Axes,Advanced Shopfare Pack,
+Hunting Axe,6,Axes,Halberd,8
+Pole Axe,9,Axes,Hunting Axe,8
+Tiamat,10,Axes,Leather Chest,
+Labrys,12,Axes,Pole Axe,8
+Steel Axe,14,Axes,Labrys,18
+Hawk,16,Axes,Steel Axe,18
+Lava Axe,20,Axes,Hawk,22
+Reaper,22,Axes,Pumpkinhead,40
+Berserker's Axe,23,Axes,Iron Chest,
+Bone Reaver,24,Axes,Lava Axe,24
+Sharp Tusk,25,Axes,Golden Chest,
+Crystal Asunder,28,Axes,Bone Reaver,42
+Shining Axe,31,Axes,Crystal Asunder,48
+Widow Maker,32,Axes,Golden Chest,
+Nocturne Axe,33,Axes,Shining Axe,42
+Storm Splitter,36,Axes,Nocture Axe,42
+Infernal Rage,38,Axes,Magic Chest,
+Eagle,39,Axes,Storm Splitter,38
+Ragnarok's Edge,40,Axes,Magic Chest,
+Retribution,42,Axes,Eagle,38
+Frenzied Axe,48,Axes,Primal Chest,
+Umbral Axe,50,Axes,City Raid,
+Wooden Spear,1,Spears,Walking Stick,10
+Iron Spear,3,Spears,Wooden Spear,6
+Half Pike,4,Spears,Iron Spear,6
+Trident,5,Spears,Half Pike,6
+Pike,8,Spears,Trident,8
+Gaia's Javelin,9,Spears,Thanksgiving Pack,
+Spade,10,Spears,Pike,8
+Seeking Tip,12,Spears,Leather Chest,
+Lance,13,Spears,Spade,10
+Champion's Javelin,14,Spears,Summer Sports Pack,
+Knight's Lance,15,Spears,Lance,18
+Valkyrie,18,Spears,Knight's Lance,22
+Poison Tip,19,Spears,Iron Chest,
+Bone Spear,21,Spears,Valkyrie,22
+Winged Spear,25,Spears,Bone Spear,42
+Silver Fork,26,Spears,Golden Chest,
+Lion's Tail,29,Spears,Winged Spear,48
+Moon Voulge,30,Spears,Golden Chest,
+Impaler,32,Spears,Lion's Tail,48
+Obsidian Spear,32,Spears,Giant's Hammer,80
+Twisted Pike,34,Spears,Impaler,42
+Titanic Lance,36,Spears,Twisted Pike,42
+Night Spike,38,Spears,Magic Chest,
+Divine Ray,39,Spears,Magic Chest,
+Mystic Spear,40,Spears,Titanic Lance,38
+Twilight Spear,43,Spears,Mystic Spear,30
+Obsidian Voulge,47,Spears,Dwarvish Chest,
+Primordial Trident,50,Spears,Primal Chest,
+Club,1,Maces,,
+Spiked Club,2,Maces,Club,6
+Shieldbreaker,3,Maces,Warrior Pack,
+Maul,4,Maces,Spiked Club,6
+Sledgehammer,5,Maces,Maul,6
+Mace,7,Maces,Sledgehammer,8
+Morning Star,8,Maces,Wooden Chest,
+Heavy Mace,9,Maces,Mace,8
+Battle Mace,11,Maces,Heavy Mace,8
+Pumpkin Smasher,13,Maces,Hollow Pack,
+Steeled Club,14,Maces,Battle Mace,18
+Tree Trunk,15,Maces,Leather Chest,
+War Gavel,17,Maces,Steeled Club,18
+Journey Mace,21,Maces,War Gavel,22
+Hammer Fist,22,Maces,Iron Chest,
+Demolisher,25,Maces,Journey Mace,42
+Giant's Hammer,25,Maces,Azure Beads,60
+Fury Club,28,Maces,Demolisher,48
+Earthquake,31,Maces,Fury Club,48
+Apocalyptus,32,Maces,Golden Chest,
+Pulverizer,35,Maces,Earthquake,42
+Tide Maker,37,Maces,Pulverizer,38
+Evening Star,38,Maces,Magic Chest,
+Destroyer,39,Maces,Tide Maker,38
+Hundred Ton,40,Maces,Magic Chest,
+Storm Basher,43,Maces,Destroyer,38
+Crusher,48,Maces,City Raid,
+Tenderizer,50,Maces,Primal Chest,
+Walking Stick,1,Staves,,
+Crow Stick,3,Staves,Walking Stick,6
+Druidic Rod,5,Staves,Crow Stick,6
+Battle Staff,6,Staves,Druidic Rod,14
+Muted Caster,8,Staves,Battle Staff,8
+Bishop Staff,9,Staves,Wooden Chest,
+Healing Rod,10,Staves,Muted Caster,8
+Forest Wand,12,Staves,Healing Rod,18
+Fire Rod,13,Staves,Forest Wand,18
+Blood Staff,15,Staves,Fire Rod,18
+Luna Rod,17,Staves,Iron Chest,
+Whispering Wand,19,Staves,Blood Staff,22
+Rebirth Rod,23,Staves,Whispering Wand,22
+Ice Staff,26,Staves,Rebirth Rod,42
+Death Stick,27,Staves,Ice Staff,48
+Sacred Scepter,28,Staves,Golden Chest,
+Soul Stealer,30,Staves,Death Stick,48
+Champion's Torch,32,Staves,Champion's Javelin,50
+Staff Of Ages,33,Staves,Soul Stealer,42
+Star Wand,35,Staves,Magic Chest,
+Eagle Rod,36,Staves,Staff Of Ages,42
+Emperor Wand,38,Staves,Magic Chest,
+Cultist Staff,39,Staves,Eagle Rod,38
+Valkyrie's Wisdom,40,Staves,Njord,70
+Sun King,41,Staves,Magic Chest,
+Keeper Of Souls,45,Staves,Dwarvish Chest,
+Affection,45,Staves,Lovestruck,60
+Shattered Wand,50,Staves,Primal Chest,
+Short Bow,2,Bows,Spiked Club,3
+Long Bow,3,Bows,Short Bow,6
+Faery's String,5,Bows,Long Bow,6
+Double String,7,Bows,Faery's String,8
+Falcon Eye,8,Bows,Wooden Chest,
+Composite Bow,9,Bows,Double String,8
+Crossbow,11,Bows,Composite Bow,8
+Hallowed Striker,13,Bows,Spooky Shop Pack,
+Recurved Bow,14,Bows,Crossbow,18
+Heavy Crossbow,17,Bows,Recurved Bow,18
+Self-Loader,18,Bows,Iron Chest,
+Forester,20,Bows,Heavy Crossbow,22
+Eagle Eye,21,Bows,Iron Chest,
+Transfixer,23,Bows,Forester,24
+Silent Arbalest,25,Bows,Transfixer,42
+Wind Striker,27,Bows,Silent Arbalest,48
+Bow Of Light,29,Bows,Wind Striker,48
+Valkyrie's Touch,30,Bows,Bladed Feather,70
+Spider,31,Bows,Bow Of Light,48
+Chimera Wings,34,Bows,Spider,42
+Evelyn,35,Bows,Magic Chest,
+Dragon Eye,37,Bows,Magic Chest,
+Lovestruck,38,Bows,Heart Seeker,80
+Griffin Wings,38,Bows,Chimera Wings,42
+Adamantium Crossbow,39,Bows,Magic Chest,
+Twilight Shot,40,Bows,Griffin Wings,38
+Elven Bow,43,Bows,Dwarvish Chest,
+Wind Piercer,48,Bows,City Raid,
+Lycan Slayer,50,Bows,City Raid,
+Pistol,5,Guns,Kunai,4
+Musket,6,Guns,Pistol,8
+Arquebuse,7,Guns,Musket,8
+Pocket Pistol,8,Guns,Arquebuse,8
+Long Musket,9,Guns,Pocket Pistol,8
+Falconer,11,Guns,Long Musket,8
+Rifle,13,Guns,Leather Chest,
+Axe Pistol,14,Guns,Falconer,18
+Flintlock,17,Guns,Axe Pistol,18
+Black Stock,18,Guns,Iron Chest,
+Tribarrel,18,Guns,Merchant's Armor,40
+Double Barrel,19,Guns,Flintlock,22
+Fire Gun,21,Guns,Double Barrel,22
+Conqueror,22,Guns,Iron Chest,
+War Axe Pistol,24,Guns,Fire Gun,42
+Thunder Shot,26,Guns,War Axe Pistol,42
+Candy Cane Pistol,27,Guns,Mistletoe,50
+Death Missive,29,Guns,Thunder Shot,48
+Rising Sun,33,Guns,Death Missive,48
+One-Shot,35,Guns,Rising Sun,42
+Judgement,36,Guns,Magic Chest,
+Bomb Launcher,37,Guns,Magic Chest,
+Solar Flare,38,Guns,One-Shot,38
+Nordic Warfare,39,Guns,Magic Chest,
+Harpoon Gun,41,Guns,Solar Flare,38
+Pirate Pistol,47,Guns,Dwarvish Chest,
+G.F.G.,48,Guns,Balmung,30
+Demonic Blast,50,Guns,Primal Chest,
+Cuirass,1,Armor,Shortsword,10
+Banded Mail,3,Armor,Cuirass,6
+Scale Mail,4,Armor,Banded Mail,6
+Ring Mail,5,Armor,Scale Mail,6
+Chainmail,8,Armor,Ring Mail,8
+Half Plate,9,Armor,Chainmail,8
+Chimalli,10,Armor,Cinco De Mayo Pack,
+Moonplate,10,Armor,Leather Chest,
+Steel Cuirass,11,Armor,Half Plate,8
+Full Plate,14,Armor,Steel Cuirass,18
+Longmail,17,Armor,Full Plate,18
+Noble Plate,18,Armor,Iron Chest,
+Silvered Scales,19,Armor,Longmail,22
+Arcane Guard,22,Armor,Silvered Scales,22
+Runic Mail,23,Armor,Arcane Guard,42
+Chaos Armor,25,Armor,Golden Chest,
+Shining Armor,27,Armor,Runic Mail,42
+Valkyrie Armor,30,Armor,Bulwark,70
+White Fullplate,32,Armor,Shining Armor,48
+Eldritch Mail,35,Armor,Magic Chest,
+Golden Heart,36,Armor,White Fullplate,42
+Gaia's Fortress,38,Armor,Magic Chest,
+Draconic Plate,39,Armor,Magic Chest,
+Twilight Cuirass,40,Armor,Golden Heart,38
+Crimson Plate,42,Armor,Twilight Cuirass,30
+Earthen Mail,46,Armor,Dwarvish Chest,
+Hallowed Casket,48,Armor,Hallowed Stomper,70
+Oracle's Armor,49,Armor,City Raid,
+Leather Vest,1,Vests,Iron Spear,3
+Hide Armor,2,Vests,Leather Vest,6
+Boiled Leather,4,Vests,Hide Armor,6
+Brigandine,6,Vests,Boiled Leather,6
+Merchant's Armor,7,Vests,Heroic Pack,
+Leather Cuirass,8,Vests,Brigandine,8
+Studded Leather,11,Vests,Leather Cuirass,8
+Raccoon Ranger,12,Vests,Leather Chest,
+Poison Studs,13,Vests,Studded Leather,18
+Strapped Leather,16,Vests,Poison Studs,18
+Plated Tunic,17,Vests,Iron Chest,
+Jacket,17,Vests,Midnight Sword,40
+Plated Leather,18,Vests,Strapped Leather,22
+Bear Armor,21,Vests,Plated Leather,22
+Nightingale,24,Vests,Bear Armor,42
+Genji Armor,26,Vests,Nightingale,42
+Oiled Leather,28,Vests,Golden Chest,
+Layered Armor,29,Vests,Genji Armor,48
+Gold Stitch,32,Vests,Layered Armor,48
+Wyrm Hide,33,Vests,Golden Chest,
+White Crow,36,Vests,Gold Stitch,42
+Shadow Lurker,38,Vests,Magic Chest,
+Moonscale Armor,39,Vests,White Crow,38
+Valkyrie's Embrace,40,Vests,Valkyrie's Touch,70
+Dragon Skin,41,Vests,Magic Chest,
+Pirate Armor,42,Vests,Moonscale Armor,38
+Ocean Leather,47,Vests,Dwarvish Chest,
+Black Crow,50,Vests,Primal Chest,
+Hard Hat,1,Helmets,Hand Axe,10
+Iron Cap,2,Helmets,Hard Hat,6
+Iron Helmet,4,Helmets,Iron Cap,6
+Horned Helm,5,Helmets,Iron Helmet,6
+Full Helm,6,Helmets,Horned Helm,8
+Warrior's Helmet,9,Helmets,Full Helm,8
+Moonlight Cap,10,Helmets,Leather Chest,
+Spangenhelm,11,Helmets,Warrior's Helmet,8
+Scale Helmet,14,Helmets,Spangenhelm,18
+Knight's Helm,17,Helmets,Scale Helmet,18
+Paladin's Helmet,19,Helmets,Iron Chest,
+Great Helm,21,Helmets,Knight's Helm,22
+Frozen Helm,23,Helmets,Iron Chest,
+Silver Helm,25,Helmets,Great Helm,42
+Dragoon's Casque,28,Helmets,Silver Helm,48
+Elir's Barbuta,31,Helmets,Dragoon's Casque,48
+Adventurer's Helm,32,Helmets,Adventurer's Boots,70
+Mercurial,33,Helmets,Elir's Barbuta,42
+Phoenix Helmet,34,Helmets,Golden Chest,
+Champion's Helm,35,Helmets,Mercurial,42
+Dragonscale Helmet,38,Helmets,Magic Chest,
+Viking Helm,39,Helmets,Champion's Helm,38
+Adamantium Helm,40,Helmets,Magic Chest,
+Valkyrie Helm,41,Helmets,Valkyrie Armor,70
+Golden Helm,42,Helmets,Viking Helm,38
+Frostfire Barbuta,45,Helmets,Dwarvish Chest,
+Hallowed Skull,47,Helmets,Hallowed Grip,70
+Jade Helm,50,Helmets,Primal Chest,
+Light Gauntlets,2,Gauntlets,Iron Cap,3
+Gauntlets,3,Gauntlets,Light Gauntlets,6
+Vambrace,5,Gauntlets,Gauntlets,6
+Long Gauntlets,7,Gauntlets,Vambrace,8
+Meshed Gauntlets,8,Gauntlets,Long Gauntlets,8
+Moonlight Gauntlets,10,Gauntlets,Leather Chest,
+Chainmail Gauntlets,12,Gauntlets,Meshed Gauntlets,8
+Jagged Gauntlets,15,Gauntlets,Chainmail Gauntlets,18
+Lord's Gauntlets,16,Gauntlets,Jagged Gauntlets,22
+Steel Vambrace,19,Gauntlets,Lord's Gauntlets,22
+Frozen Grip,20,Gauntlets,Iron Chest,
+Silver Gauntlets,23,Gauntlets,Steel Vambrace,22
+King's Gauntlets,25,Gauntlets,Golden Chest,
+Bloodlust Gauntlets,27,Gauntlets,Silver Gauntlets,42
+Dark Vambrace,30,Gauntlets,Bloodlust Gauntlets,48
+Protector Gauntlets,31,Gauntlets,Dark Vambrace,42
+Shockers,32,Gauntlets,Golden Chest,
+Hallowed Grip,32,Gauntlets,Pumpkin Smasher,50
+Giga-Brace,35,Gauntlets,Protector Gauntlets,42
+Fire Smashers,37,Gauntlets,Giga-Brace,38
+Dragonscale Gauntlets,38,Gauntlets,Magic Chest,
+Twilight Fists,39,Gauntlets,Fire Smashers,38
+Adamantium Fists,40,Gauntlets,Magic Chest,
+Golden Gauntlets,43,Gauntlets,Twilight Fists,38
+Frostfire Gauntlets,45,Gauntlets,Skadi's Charm,60
+Berserker Gauntlets,46,Gauntlets,Dwarvish Chest,
+Valkyrie's Grip,47,Gauntlets,Valkyrie Helm,30
+Volcanic Smashers,49,Gauntlets,Primal Chest,
+Heavy Boots,1,Boots,Banded Mail,3
+Rider's Boots,3,Boots,Heavy Boots,6
+Chain Greaves,4,Boots,Rider's Boots,6
+Plated Boots,6,Boots,Chain Greaves,6
+Traveling Boots,8,Boots,Plated Boots,8
+Moon Boots,9,Boots,Wooden Chest,
+Red Boots,10,Boots,Traveling Boots,8
+Lion Boots,12,Boots,Leather Chest,
+Explorer Boots,13,Boots,Red Boots,10
+Valkyrie Boots,14,Boots,Shieldbreaker,30
+Sabaton,15,Boots,Explorer Boots,18
+Warrior's Greaves,18,Boots,Sabaton,22
+Knight Riders,21,Boots,Warrior's Greaves,22
+Adventurer's Boots,24,Boots,Jacket,60
+Silvered Greaves,25,Boots,Knight Riders,42
+Flame Greaves,27,Boots,Golden Chest,
+Lord's Boots,29,Boots,Silvered Greaves,48
+Magic Riders,30,Boots,Golden Chest,
+Frost Sabatons,32,Boots,Lord's Boots,48
+Hallowed Stomper,33,Boots,Hallowed Striker,50
+Earthshakers,34,Boots,Frost Sabatons,42
+King's Boots,37,Boots,Earthshakers,42
+Skull Stompers,38,Boots,Magic Chest,
+Draconic Greaves,39,Boots,Magic Chest,
+Adamantium Boots,40,Boots,King's Boots,38
+Royal Greaves,43,Boots,Adamantium Boots,30
+Obsidian Greaves,47,Boots,Dwarvish Chest,
+Titan's Feet,50,Boots,Primal Chest,
+Tunic,1,Clothes,Short Bow,3
+Cloak,2,Clothes,Tunic,6
+Mantle,4,Clothes,Cloak,6
+Red Tunic,5,Clothes,Mantle,6
+Robe,7,Clothes,Red Tunic,8
+Doublet,9,Clothes,Robe,8
+Apprentice Robes,11,Clothes,Doublet,8
+Ice Cloak,13,Clothes,Leather Chest,
+Magician's Cloak,15,Clothes,Apprentice Robes,18
+Silk Robe,17,Clothes,Magician's Cloak,22
+Mage Robe,19,Clothes,Iron Chest,
+Sacred Tunic,21,Clothes,Silk Robe,22
+Imperial Mantle,25,Clothes,Sacred Tunic,42
+Gaia's Mantle,27,Clothes,Gaia's Javelin,40
+Stealth Apparel,28,Clothes,Imperial Mantle,48
+Storm Apparel,29,Clothes,Golden Chest,
+Night Walker,31,Clothes,Stealth Apparel,48
+Sorcerer Robe,32,Clothes,Golden Chest,
+Nightmare Cape,33,Clothes,Reaper,70
+Sage's Robe,34,Clothes,Night Walker,42
+Shimmering Robe,36,Clothes,Sage's Robe,42
+Plasmic Robe,38,Clothes,Magic Chest,
+Archwizard Robe,39,Clothes,Magic Chest,
+Twilight Robe,40,Clothes,Shimmering Robe,38
+King's Mantle,43,Clothes,Twilight Robe,30
+Patriot's Jacket,46,Clothes,Patriot's Boots,80
+Mage Doublet,47,Clothes,Dwarvish Chest,
+Holy Tunic,50,Clothes,Primal Chest,
+Targe,2,Shields,Wooden Spear,10
+Buckler,3,Shields,Targe,6
+Small Shield,5,Shields,Buckler,6
+Heater Shield,6,Shields,Small Shield,8
+Protector,8,Shields,Wooden Chest,
+Meat Shield,8,Shields,Epic Pack,
+Kite Shield,9,Shields,Heater Shield,8
+Tower Shield,11,Shields,Kite Shield,8
+Moonlight Shield,14,Shields,Tower Shield,18
+Knight Shield,17,Shields,Moonlight Shield,18
+Fire Proof,18,Shields,Iron Chest,
+Venomous Buckler,20,Shields,Knight Shield,22
+Aegis,21,Shields,Iron Chest,
+Bulwark,22,Shields,Valkyrie Boots,50
+Reflective Shield,23,Shields,Venomous Buckler,24
+Skeleton Shield,25,Shields,Reflective Shield,42
+Spiked Shield,27,Shields,Skeleton Shield,48
+Ember Shield,29,Shields,Spiked Shield,48
+Crystal Shield,30,Shields,Golden Chest,
+Argus' Shield,31,Shields,Ember Shield,48
+Blessed Aegis,34,Shields,Argus' Shield,42
+Dragon Skull,37,Shields,Magic Chest,
+Hawk Shield,38,Shields,Blessed Aegis,42
+Giantshield,39,Shields,Magic Chest,
+Adventurer's Shield,40,Shields,Adventurer's Helm,70
+Twilight Aegis,41,Shields,Hawk Shield,38
+Medusa Buckler,47,Shields,Dwarvish Chest,
+Oracle Shield,50,Shields,Primal Chest,
+Circlet,1,Hats,Leather Bracers,3
+Hood,2,Hats,Circlet,6
+Monk's Hat,3,Hats,Hood,6
+Buckle Hat,6,Hats,Monk's Hat,6
+Robin's Hood,8,Hats,Wooden Chest,
+Plumed Hat,8,Hats,Buckle Hat,8
+Pumpkinhead,8,Hats,Halloween Pack,
+Thief's Hood,9,Hats,Plumed Hat,8
+Noble Tiara,11,Hats,Thief's Hood,8
+Light Visage,13,Hats,Noble Tiara,18
+Scarlet Coif,15,Hats,Light Visage,18
+Skadi's Tiara,18,Hats,Winter Pack,
+Magic Top,19,Hats,Scarlet Coif,22
+Silver Crown,21,Hats,Magic Top,22
+Elven Coif,24,Hats,Silver Crown,42
+Golden Crown,25,Hats,Golden Chest,
+Wise Cap,27,Hats,Golden Chest,
+Dark Visage,28,Hats,Elven Coif,42
+Shadowhood,31,Hats,Dark Visage,48
+Death Veil,32,Hats,Infinity Ring,70
+Archwizard's Hat,33,Hats,Shadowhood,42
+Runic Tiara,34,Hats,Golden Chest,
+Thunder Crown,36,Hats,Magic Chest,
+Runic Coif,36,Hats,Archwizard's Hat,42
+Jorou's Crown,38,Hats,Gaia's Mantle,80
+Demonic Visage,39,Hats,Magic Chest,
+Jade Visage,40,Hats,Runic Coif,38
+Cultist's Hood,47,Hats,Dwarvish Chest,
+Loki's Mask,48,Hats,Valkyrie's Embrace,30
+Royal Tiara,50,Hats,Primal Chest,
+Leather Bracers,1,Bracers,Longsword,6
+Gloves,2,Bracers,Leather Bracers,10
+Wrist Guards,3,Bracers,Gloves,6
+Padded Gloves,5,Bracers,Wrist Guards,6
+Fur Gloves,7,Bracers,Padded Gloves,8
+Venomous Hands,9,Bracers,Wooden Chest,
+Woven Bracers,10,Bracers,Fur Gloves,8
+Dexterous Gloves,12,Bracers,Woven Bracers,10
+Elemental Bracers,14,Bracers,Dexterous Gloves,18
+Wisdom Gloves,14,Bracers,Druidic Shoes,30
+Grandmaster Gloves,15,Bracers,Leather Chest,
+Flaming Hands,16,Bracers,Elemental Bracers,18
+Shadowed Gloves,18,Bracers,Iron Chest,
+Royal Bracers,20,Bracers,Flaming Hands,22
+Alchemist Gloves,22,Bracers,Royal Bracers,24
+Mage Bracers,24,Bracers,Alchemist Gloves,42
+Sorcerer's Bracers,26,Bracers,Mage Bracers,42
+Ehecatl's Gloves,28,Bracers,Chimalli,50
+Shield Bracers,30,Bracers,Sorcerer's Bracers,48
+Angel Gloves,35,Bracers,Shield Bracers,42
+Freezing Bracers,36,Bracers,Magic Chest,
+Runic Bracers,37,Bracers,Angel Gloves,38
+Nightstalker Gloves,38,Bracers,Magic Chest,
+Death Grip,39,Bracers,Magic Chest,
+Midas' Gloves,40,Bracers,Death Veil,70
+Cindari Gloves,41,Bracers,Runic Bracers,38
+Frostfire Gloves,45,Bracers,Dwarvish Chest,
+Archangel Gloves,49,Bracers,City Raid,
+Sandals,1,Footwear,Club,10
+Shoes,2,Footwear,Sandals,6
+Druidic Shoes,3,Footwear,Wizard Pack,
+Leather Shoes,4,Footwear,Shoes,6
+Fur Loafers,6,Footwear,Leather Shoes,6
+Light Boots,7,Footwear,Fur Loafers,8
+Elven Boots,8,Footwear,Wooden Chest,
+Dancer Shoes,9,Footwear,Light Boots,8
+Legion Sandals,11,Footwear,Dancer Shoes,8
+Horned Shoes,14,Footwear,Legion Sandals,18
+Moon Walkers,15,Footwear,Leather Chest,
+Golden Shoes,17,Footwear,Horned Shoes,18
+Plumed Loafers,21,Footwear,Golden Shoes,22
+Winged Sandals,22,Footwear,Iron Chest,
+Imperial Sandals,25,Footwear,Plumed Loafers,42
+Patriot Boots,27,Footwear,Fireworks,40
+Genji Getas,28,Footwear,Imperial Sandals,48
+Path Finders,29,Footwear,Golden Chest,
+Floating Slippers,31,Footwear,Genji Getas,48
+Wind Walkers,35,Footwear,Floating Slippers,42
+Arcane Sandals,37,Footwear,Wind Walkers,38
+Planeswalkers,38,Footwear,Magic Chest,
+Adamantium Shoes,39,Footwear,Arcane Sandals,38
+Draconic Boots,40,Footwear,Magic Chest,
+Jade Shoes,43,Footwear,Adamantium Shoes,38
+Hopping Shoes,44,Footwear,Dynamic Ring,70
+Frostfire Shoes,45,Footwear,Dwarvish Chest,
+Firewalkers,49,Footwear,Primal Chest,
+Healing Herbs,1,Remedies,Crow Stick,3
+Antidote,2,Remedies,Healing Herbs,10
+Fungi Brew,3,Remedies,Antidote,6
+Elderflower,6,Remedies,Fungi Brew,6
+Healing Mix,7,Remedies,Elderflower,8
+Colored Powder,8,Remedies,Wooden Chest,
+Fire Moss,9,Remedies,Healing Mix,8
+Mistletoe,10,Remedies,Holiday Pack,
+Sleeping Shrooms,11,Remedies,Fire Moss,14
+Bark Tea,13,Remedies,Sleeping Shrooms,18
+Fairy Sprinkle,15,Remedies,Bark Tea,18
+Anti-Venom,19,Remedies,Fairy Sprinkle,22
+Protection Dust,21,Remedies,Anti-Venom,22
+Swift Seed,23,Remedies,Iron Chest,
+Elven Cure,24,Remedies,Protection Dust,42
+Rejuvenating Tea,26,Remedies,Golden Chest,
+Angel Dust,28,Remedies,Elven Cure,42
+Coldfire Dust,31,Remedies,Angel Dust,48
+Unicorn Essence,32,Remedies,Hand Drum,40
+Strength Seed,34,Remedies,Golden Chest,
+Phoenix Dust,35,Remedies,Coldfire Dust,42
+Panacea,37,Remedies,Magic Chest,
+Mystic Flower,39,Remedies,Phoenix Dust,38
+Magic Seed,40,Remedies,Magic Chest,
+Albizia,41,Remedies,Mystic Flower,38
+Magic Beans,46,Remedies,Adventurer's Shield,30
+Devil Dust,47,Remedies,Dwarvish Chest,
+Draconic Tea,50,Remedies,Primal Chest,
+Health Vial,3,Potions,Healing Herbs,6
+Mana Vial,4,Potions,Health Vial,6
+Speed Potion,5,Potions,Mana Vial,6
+Love Splash,6,Potions,Speed Potion,8
+Healing Potion,7,Potions,Love Splash,8
+Toxic Vial,8,Potions,Healing Potion,8
+Energizing Potion,9,Potions,Easter Pack,
+Elixir Drops,9,Potions,Wooden Chest,
+Health Drink,10,Potions,Toxic Vial,8
+Strength Potion,13,Potions,Health Drink,10
+Warming Spray,15,Potions,Strength Potion,18
+Acidic Splash,17,Potions,Warming Spray,22
+Health Potion,20,Potions,Acidic Splash,22
+Wisdom Potion,22,Potions,Wisdom Gloves,50
+Mana Potion,22,Potions,Health Potion,24
+Demon's Blood,24,Potions,Iron Chest,
+Elixir,26,Potions,Golden Chest,
+Golden Potion,28,Potions,Mana Potion,42
+Life Potion,31,Potions,Golden Potion,48
+Invincibility Potion,33,Potions,Life Potion,42
+Dragon's Blood,34,Potions,Golden Chest,
+Megalixir,36,Potions,Magic Chest,
+Twilight Potion,37,Potions,Invincibility Potion,42
+Gods' Essence,39,Potions,Magic Chest,
+Clarity Potion,40,Potions,Twilight Potion,38
+Jack's Brew,44,Potions,Bacon Blade,70
+Obsidian Potion,47,Potions,Dwarvish Chest,
+Gaia's Essence,50,Potions,Primal Chest,
+Shielding Seal,5,Spells,Healing Rod,10
+Fireball Scroll,7,Spells,Shielding Seal,8
+Poison Scroll,8,Spells,Fireball Scroll,8
+Lightning Scroll,9,Spells,Poison Scroll,8
+Sleeping Totem,11,Spells,Lightning Scroll,8
+Firewall Scroll,12,Spells,Sleeping Totem,18
+Pain Totem,13,Spells,Leather Chest,
+Charming Scroll,14,Spells,Valentine's Pack,
+Deflection Seal,14,Spells,Firewall Scroll,18
+Freezing Scroll,16,Spells,Deflection Seal,18
+Invisibility Scroll,18,Spells,Freezing Scroll,22
+Teleportation Scroll,21,Spells,Invisibility Scroll,22
+Magical Codex,23,Spells,Iron Chest,
+Paralysis Totem,24,Spells,Teleportation Scroll,42
+Evil Seal,26,Spells,Golden Chest,
+Possession Scroll,28,Spells,Paralysis Totem,42
+Power Seal,30,Spells,Possession Scroll,48
+Njord,30,Spells,Widom Potion,70
+Gloom Totem,32,Spells,Power Seal,42
+Arcane Compendium,33,Spells,Golden Chest,
+Disintegration Scroll,35,Spells,Gloom Totem,42
+Return Scroll,37,Spells,Magic Chest,
+Hawk Totem,38,Spells,Disintegration Scroll,38
+Divine Tome,40,Spells,Magic Chest,
+Twilight Seal,41,Spells,Hawk Totem,38
+Haunted Scroll,47,Spells,Dwarvish Chest,
+Primal Compendium,49,Spells,Unicorn Essence,70
+Guardian Seal,50,Spells,Primal Chest,
+Darts,2,Projectiles,Long Bow,3
+Sling,3,Projectiles,Darts,6
+Boomerang,4,Projectiles,Sling,6
+Kunai,6,Projectiles,Boomerang,6
+Poison Darts,7,Projectiles,Kunai,8
+Fireworks,8,Projectiles,Patriot's Pack,
+Smoke Bomb,9,Projectiles,Poison Darts,8
+Metal Boomerang,11,Projectiles,Smoke Bomb,8
+Toxic Bomb,12,Projectiles,Leather Chest,
+Sleeping Bomb,13,Projectiles,Metal Boomerang,18
+Shock Darts,15,Projectiles,Sleeping Bomb,18
+Shuriken,18,Projectiles,Shock Darts,22
+Elasti-Sling,20,Projectiles,Shuriken,22
+Chakram,22,Projectiles,Elasti-Sling,24
+Bladed Feather,22,Projectiles,Numble Ring,50
+Magic Shuriken,24,Projectiles,Iron Chest,
+Singing Chakram,26,Projectiles,Golden Chest,
+Steelarang,28,Projectiles,Chakram,42
+Heart Seeker,28,Projectiles,Charming Scroll,50
+Seeking Kunai,30,Projectiles,Steelarang,48
+Shredder,33,Projectiles,Seeking Kunai,42
+Exploding Darts,35,Projectiles,Magic Chest,
+Heart Piercer,36,Projectiles,Magic Chest,
+Light Boomerang,37,Projectiles,Shredder,42
+Thunder Clap,38,Projectiles,Magic Chest,
+Dragon Darts,39,Projectiles,Light Boomerang,38
+Frostfire Kunai,45,Projectiles,Dwarvish Chest,
+Hell Bomb,49,Projectiles,City Raid,
+Iron Band,2,Rings,Boiled Leather,3
+Rabbit Ring,4,Rings,Iron Band,6
+Jewel Ring,5,Rings,Rabbit Ring,10
+Shadow Mark,6,Rings,Jewel Ring,8
+Crescent Ring,7,Rings,Shadow Mark,8
+Moonstone Ring,9,Rings,Crescent Ring,8
+Luck Band,11,Rings,Moonstone Ring,8
+Gold Digger,12,Rings,Leather Chest,
+Soldier's Mark,13,Rings,Luck Band,18
+Nimble Ring,14,Rings,Kris,30
+Fire Band,16,Rings,Soldier's Mark,18
+Sight Band,19,Rings,Fire Band,22
+Undead Ring,21,Rings,Sight Band,22
+Power Ring,23,Rings,Undead Ring,42
+Infinity Ring,24,Rings,Tribarrel,60
+Crusader Ring,25,Rings,Golden Chest,
+Prayer Ring,27,Rings,Golden Chest,
+Wisdom Mark,28,Rings,Power Ring,42
+Resistance Band,31,Rings,Wisdom Mark,48
+Dynamic Ring,32,Rings,Energizing Potion,40
+Truth Ring,33,Rings,Resistance Band,42
+Divine Mark,34,Rings,Golden Chest,
+Royal Ring,36,Rings,Magic Chest,
+Fallen Angel Ring,37,Rings,Truth Ring,42
+Oracle,39,Rings,Magic Chest,
+Lich Ring,41,Rings,Fallen Angel Ring,38
+Azure Ring,45,Rings,Dwarvish Chest,
+Antimagic Band,50,Rings,Primal Chest,
+Shiny Pendant,3,Pendants,Rabbit Ring,6
+Opal Necklace,5,Pendants,Shiny Pendant,6
+Scarlet Drop,6,Pendants,Opal Necklace,8
+Protection Pendant,8,Pendants,Scarlet Drop,8
+Luna Charm,10,Pendants,Protection Pendant,8
+Wind Charm,11,Pendants,Leather Chest,
+Skeleton Ward,12,Pendants,Luna Charm,10
+Hanging Journal,14,Pendants,Skeleton Ward,18
+Fiery Talisman,16,Pendants,Hanging Journal,18
+Azure Beads,18,Pendants,Druidic Axe,40
+Timeless Locket,18,Pendants,Fiery Talisman,22
+Jade Amulet,20,Pendants,Timeless Locket,22
+Obelisk Charm,22,Pendants,Jade Amulet,24
+Turning Token,24,Pendants,Iron Chest,
+Light Amulet,25,Pendants,Obelisk Charm,42
+Shielding Ward,27,Pendants,Golden Chest,
+Phoenix Talon,29,Pendants,Light Amulet,48
+Freezing Ward,31,Pendants,Phoenix Talon,48
+Cat's Eye,34,Pendants,Freezing Ward,42
+Skadi's Charm,35,Pendants,Skadi's Tiara,60
+Lich's Heart,35,Pendants,Magic Chest,
+Draconic Amulet,36,Pendants,Magic Chest,
+Trine Charm,37,Pendants,Cat's Eye,42
+Goddess' Tear,38,Pendants,Magic Chest,
+Ancient Amulet,41,Pendants,Trine Charm,38
+Champion's Medal,45,Pendants,Champion's Torch,70
+Frostfire Talisman,47,Pendants,Dwarvish Chest,
+Gaia's Heart,50,Pendants,Primal Chest,
+Wood Flute,3,Instruments,Red Tunic,4
+Small Drum,4,Instruments,Wood Flute,6
+Pan Flute,7,Instruments,Small Drum,6
+Hand Drum,8,Instruments,Back to School Pack,
+Horn,9,Instruments,Pan Flute,8
+Harp,11,Instruments,Horn,8
+Iron Flute,12,Instruments,Leather Chest,
+Lute,15,Instruments,Harp,18
+Frozen Harp,16,Instruments,Iron Chest,
+Long Flute,18,Instruments,Lute,22
+Oud,20,Instruments,Long Flute,22
+Nordic Lute,22,Instruments,Oud,24
+Military Tap,25,Instruments,Nordic Lute,42
+Ygg Flute,26,Instruments,Golden Chest,
+Silvered Flute,28,Instruments,Military Tap,48
+Soothing Harp,30,Instruments,Silvered Flute,48
+Wyrm Horn,31,Instruments,Golden Chest,
+Golden String,32,Instruments,Soothing Harp,42
+Hell Hound,33,Instruments,Golden String,42
+Draconian Sound,35,Instruments,Hell Hound,42
+Draconic Heartbeat,38,Instruments,Magic Chest,
+Twilight Flute,39,Instruments,Draconian Sound,38
+Angelic Strings,40,Instruments,Magic Chest,
+Ancient Horn,41,Instruments,Twilight Flute,38
+Frostfire Harp,45,Instruments,Dwarvish Chest,
+Angelic Bell,46,Instruments,Candy Cane Pistol,80
+Wisdom Ocarina,47,Instruments,Valkyrie's Wisdom,30
+Gaia's Flute,49,Instruments,City Raid,

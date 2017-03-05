@@ -1,0 +1,282 @@
+[
+  {
+    "tier": "1",
+    "hire_cost": "100",
+    "lv_max": "50",
+    "points_per_lv": "5",
+    "worker_name": "3",
+    "skills": [
+      "Blacksmith",
+      "Metal Working \/ 8 pts",
+      "Weapon Crafting \/ 6 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "1",
+    "hire_cost": "100",
+    "lv_max": "50",
+    "points_per_lv": "5",
+    "worker_name": "3",
+    "skills": [
+      "Carpenter",
+      "Wood Working \/ 8 pts",
+      "Weapon Crafting \/ 6 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "1",
+    "hire_cost": "100",
+    "lv_max": "50",
+    "points_per_lv": "5",
+    "worker_name": "3",
+    "skills": [
+      "Armorer",
+      "Metal Working \/ 6 pts",
+      "Armor Crafting \/ 8 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "1",
+    "hire_cost": "100",
+    "lv_max": "50",
+    "points_per_lv": "5",
+    "worker_name": "3",
+    "skills": [
+      "Druid",
+      "Wood Working \/ 4 pts",
+      "Alchemy \/ 10 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "1",
+    "hire_cost": "100",
+    "lv_max": "50",
+    "points_per_lv": "5",
+    "worker_name": "3",
+    "skills": [
+      "Leatherworker",
+      "Textile Working \/ 8 pts",
+      "Armor Crafting \/ 6 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "1",
+    "hire_cost": "100",
+    "lv_max": "50",
+    "points_per_lv": "5",
+    "worker_name": "3",
+    "skills": [
+      "Tailor",
+      "Textile Working \/ 6 pts",
+      "Arts and Crafts \/ 8 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "2",
+    "hire_cost": "10000",
+    "lv_max": "50",
+    "points_per_lv": "7",
+    "worker_name": "7",
+    "skills": [
+      "Artificer",
+      "Tinkering \/ 10 pts",
+      "Armor Crafting \/ 10 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "2",
+    "hire_cost": "10000",
+    "lv_max": "50",
+    "points_per_lv": "7",
+    "worker_name": "7",
+    "skills": [
+      "Enchanter",
+      "Magic \/ 8 pts",
+      "Rune Writing \/ 12 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "2",
+    "hire_cost": "10000",
+    "lv_max": "50",
+    "points_per_lv": "7",
+    "worker_name": "7",
+    "skills": [
+      "Fletcher",
+      "Weapon Crafting \/ 10 pts",
+      "Arts and Crafts \/ 10 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "2",
+    "hire_cost": "10000",
+    "lv_max": "50",
+    "points_per_lv": "7",
+    "worker_name": "7",
+    "skills": [
+      "Jeweler",
+      "Metal Working \/ 10 pts",
+      "Jewelry \/ 10 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "2",
+    "hire_cost": "10000",
+    "lv_max": "50",
+    "points_per_lv": "7",
+    "worker_name": "7",
+    "skills": [
+      "Luthier",
+      "Wood Working \/ 10 pts",
+      "Textile Working \/ 10 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "2",
+    "hire_cost": "10000",
+    "lv_max": "50",
+    "points_per_lv": "7",
+    "worker_name": "7",
+    "skills": [
+      "Sorceress",
+      "Magic \/ 8 pts",
+      "Alchemy \/ 12 pts",
+      ""
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "3",
+    "hire_cost": "250000",
+    "lv_max": "50",
+    "points_per_lv": "10",
+    "worker_name": "15",
+    "skills": [
+      "Alchemist",
+      "Magic \/ 15 pts",
+      "Alchemy \/ 25 pts",
+      "Tinkering \/ 20 pts"
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "3",
+    "hire_cost": "250000",
+    "lv_max": "50",
+    "points_per_lv": "10",
+    "worker_name": "15",
+    "skills": [
+      "Artisan",
+      "Textile Working \/ 10 pts",
+      "Arts and Crafts \/ 30 pts",
+      "Jewelry \/ 20 pts"
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "3",
+    "hire_cost": "250000",
+    "lv_max": "50",
+    "points_per_lv": "10",
+    "worker_name": "15",
+    "skills": [
+      "Master",
+      "Metal Working \/ 15 pts",
+      "Weapon Crafting \/ 25 pts",
+      "Armor Crafting \/ 20 pts"
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "3",
+    "hire_cost": "250000",
+    "lv_max": "50",
+    "points_per_lv": "10",
+    "worker_name": "15",
+    "skills": [
+      "Seamstress",
+      "Textile Working \/ 30 pts",
+      "Arts and Crafts \/ 15 pts",
+      "Armor Crafting \/ 15 pts"
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "3",
+    "hire_cost": "250000",
+    "lv_max": "50",
+    "points_per_lv": "10",
+    "worker_name": "15",
+    "skills": [
+      "Sculptor",
+      "Wood Working \/ 25 pts",
+      "Arts and Crafts \/ 10 pts",
+      "Jewelry \/ 25 pts"
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "3",
+    "hire_cost": "250000",
+    "lv_max": "50",
+    "points_per_lv": "10",
+    "worker_name": "15",
+    "skills": [
+      "Wizard",
+      "Magic \/ 20 pts",
+      "Alchemy \/ 15 pts",
+      "Rune Writing \/ 25 pts"
+    ],
+    "unlocked_by": ""
+  },
+  {
+    "tier": "4",
+    "hire_cost": "100000",
+    "lv_max": "50",
+    "points_per_lv": "12",
+    "worker_name": "25",
+    "skills": [
+      "The Giant",
+      "Metal Working \/ 25 pts",
+      "Weapon Crafting \/ 25 pts",
+      "Magic \/ 25 pts"
+    ],
+    "unlocked_by": "Rune Writing \/ 25 pts"
+  },
+  {
+    "tier": "5",
+    "hire_cost": "100000",
+    "lv_max": "50",
+    "points_per_lv": "15",
+    "worker_name": "",
+    "skills": [
+      "Jack-of-all-Trades",
+      "All Skills \/ 1 pt",
+      "",
+      ""
+    ],
+    "unlocked_by": ""
+  }
+]

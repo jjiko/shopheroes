@@ -1,0 +1,23 @@
+{
+  "name": "jjiko/shopheroes",
+  "description": "Shop heroes data interface.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joe Jiko",
+      "email": "me@joejiko.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/routing": "~5",
+    "illuminate/support": "~5",
+    "illuminate/view": "~5",
+    "michelf/php-markdown": "1.7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jiko\\ShopHeroes\\": "src/"
+    }
+  }
+}

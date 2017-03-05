@@ -1,0 +1,21 @@
+Tier,Hire Cost,LV Cap,Points per LV,Mastery Base,Worker Name,Skills,Skills,Skills,Skills,Unlocked By
+1,100,50,5,3,Blacksmith,Metal Working / 8 pts,Weapon Crafting / 6 pts,,,Forge - LV 1
+1,100,50,5,3,Carpenter,Wood Working / 8 pts,Weapon Crafting / 6 pts,,,Market - LV 1
+1,100,50,5,3,Armorer,Metal Working / 6 pts,Armor Crafting / 8 pts,,,Forge - LV 2
+1,100,50,5,3,Druid,Wood Working / 4 pts,Alchemy / 10 pts,,,Park - LV 1
+1,100,50,5,3,Leatherworker,Textile Working / 8 pts,Armor Crafting / 6 pts,,,Park - LV 2
+1,100,50,5,3,Tailor,Textile Working / 6 pts,Arts and Crafts / 8 pts,,,Market - LV 2
+2,10000,50,7,7,Artificer,Tinkering / 10 pts,Armor Crafting / 10 pts,,,Engineering School - LV 1
+2,10000,50,7,7,Enchanter,Magic / 8 pts,Rune Writing / 12 pts,,,Sorcerer's Tower - LV 1
+2,10000,50,7,7,Fletcher,Weapon Crafting / 10 pts,Arts and Crafts / 10 pts,,,Trader's Square - LV 1
+2,10000,50,7,7,Jeweler,Metal Working / 10 pts,Jewelry / 10 pts,,,Miner's Guild - LV 1
+2,10000,50,7,7,Luthier,Wood Working / 10 pts,Textile Working / 10 pts,,,Miner's Guild - LV 2
+2,10000,50,7,7,Sorceress,Magic / 8 pts,Alchemy / 12 pts,,,Sorcerer's Tower - LV 2
+3,250000,50,10,15,Alchemist,Magic / 15 pts,Alchemy / 25 pts,Tinkering / 20 pts,,Engineering School - LV 21
+3,250000,50,10,15,Artisan,Textile Working / 10 pts,Arts and Crafts / 30 pts,Jewelry / 20 pts,,Trader's Square - LV 21
+3,250000,50,10,15,Master,Metal Working / 15 pts,Weapon Crafting / 25 pts,Armor Crafting / 20 pts,,Forge - LV 29
+3,250000,50,10,15,Seamstress,Textile Working / 30 pts,Arts and Crafts / 15 pts,Armor Crafting / 15 pts,,Market - LV 29
+3,250000,50,10,15,Sculptor,Wood Working / 25 pts,Arts and Crafts / 10 pts,Jewelry / 25 pts,,Miner's Guild - LV 29
+3,250000,50,10,15,Wizard,Magic / 20 pts,Alchemy / 15 pts,Rune Writing / 25 pts,,Sorcerer's Tower - LV 29
+4,100000,50,12,25,The Giant,Metal Working / 25 pts,Weapon Crafting / 25 pts,Magic / 25 pts,Rune Writing / 25 pts,Advanced Shopfare Package
+5,100000,50,15,,Jack-of-all-Trades,All Skills / 1 pt,,,,Pack of all Trades Package
